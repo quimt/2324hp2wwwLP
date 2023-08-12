@@ -1,0 +1,31 @@
+@media screen{
+    * {
+        --ts-color-heading: #073642;
+        --ts-color-body: #586e75;
+        --ts-color-background: #fdf6e3;
+        --ts-color-link: #268bd2;
+        --ts-color-subtle: #eee8d5;
+        --ts-color-border: #93a1a1;
+        --ts-color-muted: #dc322f;
+        --ts-color-standout: #80f2ff;
+        --ts-font-weight-regular: 500;
+        --ts-font-weight-bold: 900;
+        data-typesettings: "golden sans-serif";
+    }
+}
+
+@media print {
+    * {
+        --ts-color-heading: black;
+        --ts-color-body: black;
+        --ts-color-background: white;
+        --ts-color-link: #333333;
+        --ts-color-subtle #eeeeee;
+        --ts-color-border: #cdcdcd;
+        --ts-color-muted: #717171;
+        --ts-color-standout: #d9d9d9;
+        --ts-font-weight-regular: 300;
+        --ts-font-weight-bold: 600;
+        data-typesttings: "sans-serif";
+    }
+}

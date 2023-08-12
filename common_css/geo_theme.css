@@ -1,0 +1,35 @@
+@media screen{
+    * {
+        --ts-color-heading: #030303;
+        --ts-color-body: #030303;
+        --ts-color-background: #c8e5ec;
+        --ts-color-link: #3b759e;
+        --ts-color-subtle: #f7fbfc;;
+        --ts-color-border: #cdcdcd;
+        --ts-color-muted: #0a004d;
+        --ts-color-standout: #ffb399;
+        --ts-font-weight-regular: 500;
+        --ts-font-weight-bold: 900;
+        data-typesettings: "golden sans-serif";
+    }
+}
+
+@media print {
+    * {
+        --ts-color-heading: black;
+        --ts-color-body: black;
+        --ts-color-background: white;
+        --ts-color-link: #333333;
+        --ts-color-subtle #eeeeee;
+        --ts-color-border: #cdcdcd;
+        --ts-color-muted: #717171;
+        --ts-color-standout: #d9d9d9;
+        --ts-font-weight-regular: 300;
+        --ts-font-weight-bold: 600;
+        data-typesttings: "golden sans-serif";
+    }
+}
+
+* {
+    --paper-color: color-mix(in srgb, var(--ts-color-background) 20%, white)
+}

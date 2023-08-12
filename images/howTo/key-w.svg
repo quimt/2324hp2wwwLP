@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="key-w.svg"
+   viewBox="0 0 1685 515"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs471">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1.0009057"
+       width="1.0004252"
+       y="-0.00041729347"
+       x="-0.00020509638"
+       inkscape:label="Color Blindness"
+       id="filter1571">
+      <feColorMatrix
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix1569" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1651" />
+      <feColorMatrix
+         id="feColorMatrix1653"
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <title
+     id="title4165">Microsoft US keyboard Layout</title>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="705"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.49497474"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="728.31999"
+     inkscape:cy="396.98996"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#2d02ff;fill-opacity:1;stroke:#000000;stroke-width:2.02031"
+       d="m 226.67823,232.94118 c -3.07648,-3.07649 -3.36425,-58.71452 -0.33297,-64.37852 1.93332,-3.61245 4.52368,-3.90779 34.2741,-3.90779 29.75042,0 32.34078,0.29534 34.2741,3.90779 3.03128,5.664 2.74351,61.30203 -0.33297,64.37852 -3.39393,3.39392 -64.48833,3.39392 -67.88226,0 z m 35.10273,-50.60864 1.48264,-6.56599 2.72428,6.56599 c 3.62829,8.74478 6.13678,8.27724 8.80764,-1.64159 1.21554,-4.51417 2.71156,-9.51443 3.32448,-11.11168 0.66009,-1.72018 -0.1062,-2.9041 -1.87966,-2.9041 -1.72866,0 -3.61711,2.77504 -4.46824,6.56599 l -1.47417,6.566 -1.86659,-6.566 c -2.3968,-8.43108 -6.88816,-8.43108 -8.78107,0 l -1.47417,6.566 -1.86659,-6.566 c -2.24403,-7.89365 -6.86565,-9.09979 -4.90289,-1.27953 0.72975,2.90755 1.85108,7.90781 2.49186,11.11168 1.56275,7.81379 6.04594,7.39247 7.88248,-0.74077 z"
+       id="path6931" />
+  </g>
+  <metadata
+     id="metadata468">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Microsoft US keyboard Layout</dc:title>
+        <dc:date>2011-08-10T10:56:38</dc:date>
+        <dc:description>English keyboard layout.</dc:description>
+        <dc:source>https://openclipart.org/detail/154537/us-english-keyboard-layout-v0.1-by-nitiraseem</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>nitiraseem</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>English keyboard</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>keyboard layout</rdf:li>
+            <rdf:li>us keyboard</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

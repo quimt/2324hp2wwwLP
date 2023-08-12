@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="key-ctrl.svg"
+   viewBox="0 0 1685 515"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs471" />
+  <title
+     id="title4165">Microsoft US keyboard Layout</title>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="705"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.4504451"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer3"
+     inkscape:cx="1011.222"
+     inkscape:cy="200.91238"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#7f67ff;fill-opacity:1;stroke:#7f66ff;stroke-width:2.22003;stroke-opacity:1"
+       d="m 12.765152,488.36306 c -4.7545852,-3.36869 -4.9950598,-4.96822 -4.9950598,-33.22497 0,-24.02714 0.6650027,-30.3509 3.4886128,-33.17451 2.969178,-2.96918 11.089374,-3.48861 54.536593,-3.48861 30.943209,0 52.739172,0.9051 55.342082,2.29813 3.92774,2.10206 4.29121,4.89585 4.26011,32.74539 -0.0187,16.74599 -0.97994,31.94577 -2.1361,33.77729 -3.27209,5.18345 -103.322704,6.14983 -110.496238,1.06728 z m 30.569887,-39.97139 c 1.544516,-1.86102 2.190489,-4.00141 1.435493,-4.75641 -0.754995,-0.75499 -2.89538,-0.10902 -4.756409,1.4355 -2.701985,2.24245 -4.054582,2.25142 -6.713728,0.0445 -7.818903,-6.48911 -1.759528,-12.92528 8.497264,-9.02566 4.625727,1.7587 5.932908,3.73519 5.932908,8.97072 0,5.68267 0.853251,6.71502 5.550065,6.71502 4.686722,0 5.550066,-1.03601 5.550066,-6.66008 0,-3.66304 0.999012,-6.66008 2.220027,-6.66008 1.221014,0 2.220026,2.99704 2.220026,6.66008 0,3.66305 0.999012,6.66008 2.220026,6.66008 1.221015,0 2.220027,-4.99506 2.220027,-11.10013 0,-6.10507 -0.999012,-11.10013 -2.220027,-11.10013 -1.221014,0 -2.220026,0.99901 -2.220026,2.22003 0,3.2221 -10.523409,2.72948 -11.856131,-0.55501 -0.850137,-2.09517 -1.75271,-1.95919 -3.684053,0.55501 -1.931343,2.51419 -2.833917,2.65017 -3.684054,0.555 -1.435225,-3.53711 -12.349643,-3.61354 -15.852178,-0.111 -6.233595,6.23359 -0.566393,19.53623 8.322843,19.53623 2.205307,0 5.273344,-1.52266 6.817861,-3.38369 z"
+       id="path14253" />
+  </g>
+  <metadata
+     id="metadata468">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Microsoft US keyboard Layout</dc:title>
+        <dc:date>2011-08-10T10:56:38</dc:date>
+        <dc:description>English keyboard layout.</dc:description>
+        <dc:source>https://openclipart.org/detail/154537/us-english-keyboard-layout-v0.1-by-nitiraseem</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>nitiraseem</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>English keyboard</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>keyboard layout</rdf:li>
+            <rdf:li>us keyboard</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

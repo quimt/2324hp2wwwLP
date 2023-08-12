@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg2"
+   sodipodi:docname="key-lshift.svg"
+   viewBox="0 0 1685 515"
+   version="1.1"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs471">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1.0009057"
+       width="1.0004252"
+       y="-0.00041729347"
+       x="-0.00020509638"
+       inkscape:label="Color Blindness"
+       id="filter1571">
+      <feColorMatrix
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="fbSourceGraphic"
+         id="feColorMatrix1569" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1651" />
+      <feColorMatrix
+         id="feColorMatrix1653"
+         values="0.95 0.05 0 0 0 0.2583 0.4333 0.5667 0 0 0 0.475 0.525 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <title
+     id="title4165">Microsoft US keyboard Layout</title>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="705"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.49497474"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="728.31999"
+     inkscape:cy="396.98996"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       style="fill:#2d02ff;fill-opacity:1;stroke:#000000;stroke-width:2.02031"
+       d="m 10.505587,402.64681 c -3.0764865,-3.07649 -3.3642581,-58.71452 -0.332979,-64.37852 2.017049,-3.76889 5.126465,-3.90779 87.479212,-3.90779 63.71901,0 86.00305,0.61523 87.81219,2.42436 3.38908,3.38908 3.38908,62.47287 0,65.86195 -3.48569,3.48569 -171.472734,3.48569 -174.958423,0 z m 29.900515,-15.61787 c 0,-4.40426 1.056927,-6.08572 4.127221,-6.56599 3.875303,-0.60618 3.75422,-1.07719 -1.983715,-7.71666 l -6.110934,-7.07106 -5.980811,7.07106 c -5.483554,6.48317 -5.654569,7.12475 -2.056897,7.71666 2.845471,0.46816 3.923916,2.27275 3.923916,6.56599 0,4.57353 0.919225,5.92041 4.04061,5.92041 3.121386,0 4.04061,-1.34688 4.04061,-5.92041 z m -1.176603,-25.02278 c 4.583995,-3.3519 3.432314,-10.19372 -1.877056,-11.15105 -2.209575,-0.3984 -4.926546,-1.64105 -6.037714,-2.76142 -1.356558,-1.3678 0.136223,-1.58266 4.543713,-0.65396 5.346988,1.12665 6.348128,0.82049 5.399631,-1.65126 -2.833854,-7.3849 -14.994106,-6.05282 -14.994106,1.64252 0,3.46201 1.746899,5.38213 6.565991,7.21706 5.013014,1.90877 5.706819,2.71173 2.933404,3.39492 -1.997924,0.49217 -4.974591,-0.21892 -6.614814,-1.58018 -3.602857,-2.99011 -5.454248,-1.64102 -3.770273,2.74735 1.05015,2.73664 3.273494,4.01414 9.085847,5.22058 0.621,0.12889 2.765418,-0.96216 4.765377,-2.42456 z m 40.380065,-7.82455 c -0.230071,-4.79019 -0.508166,-9.28525 -0.617988,-9.98903 -0.509628,-3.26588 -9.438859,-3.50999 -11.816431,-0.32304 -1.406007,1.88464 -2.525381,2.31841 -2.525381,0.97862 0,-1.32354 -1.363706,-2.40644 -3.030458,-2.40644 -1.666752,0 -3.030458,1.73274 -3.030458,3.85053 0,3.38184 -0.612859,3.56627 -5.035,1.51523 -2.76925,-1.28442 -5.042094,-3.01716 -5.050763,-3.85053 -0.0087,-0.83338 -0.924899,-1.51523 -2.036067,-1.51523 -1.111168,0 -2.020305,4.54568 -2.020305,10.10152 0,5.55584 0.909137,10.10153 2.020305,10.10153 1.111168,0 2.020305,-2.21919 2.020305,-4.93153 0,-2.71234 0.909137,-5.49341 2.020305,-6.18015 1.178692,-0.72847 2.020305,1.32589 2.020305,4.93153 0,5.51996 0.647449,6.18015 6.060915,6.18015 5.424764,0 6.094851,-0.68917 6.384239,-6.56599 l 0.323324,-6.56599 0.814833,6.56599 c 1.024319,8.25407 4.599435,8.64666 4.599435,0.50507 0,-3.3335 0.909137,-6.06091 2.020305,-6.06091 1.111168,0 2.020305,2.57589 2.020305,5.72419 0,3.14832 0.581375,6.30558 1.291945,7.01615 2.66853,2.66853 3.971344,-0.64909 3.56633,-9.08167 z"
+       id="path5956" />
+  </g>
+  <metadata
+     id="metadata468">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Microsoft US keyboard Layout</dc:title>
+        <dc:date>2011-08-10T10:56:38</dc:date>
+        <dc:description>English keyboard layout.</dc:description>
+        <dc:source>https://openclipart.org/detail/154537/us-english-keyboard-layout-v0.1-by-nitiraseem</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>nitiraseem</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>English keyboard</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>keyboard layout</rdf:li>
+            <rdf:li>us keyboard</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,9 @@
+/Archive
+/tests
+/templates
+*nim
+*nimib
+*org
+*sync-conflict*
+*slides*
+!*slides*.html

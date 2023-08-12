@@ -1,0 +1,258 @@
+:root {
+    --ts-font-family-serif: "Noto Serif", serif;
+    --ts-font-family-sans: "Noto Sans", sans-serif;
+    --ts-font-family-sans-alt: "Tahoma", "Verdana", "Arial", sans-serif;
+    --ts-font-family-monospace: "Noto Sans Mono", "Courier New", mono;
+}
+
+.pbr {
+    break-after: page;
+}
+
+.cbr {
+    break-after: column;
+}
+
+.no-br {
+    break-after: avoid;
+    break-inside: avoid;
+    break-before: avoid;
+    overflow: scroll;
+}
+
+.t-table {
+    border: hidden !important;
+    border-collapse: collapse;
+    min-width: unset !important;
+}
+
+.t-table thead {
+    border-bottom: solid var(--ts-color-heading) !important;
+}
+
+.t-table th,
+.t-table td {
+    border-right: solid var(--ts-color-heading);
+}
+
+.t-table.horizontal th,
+.t-table.horizontal td {
+    border-bottom: solid var(--ts-color-heading);
+    height: 3em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.t-table.horizontal td {
+    border-right: solid var(--ts-color-subtle);
+}
+
+@media print {
+    .no-print {
+        display: none
+    }
+}
+
+@media screen {
+    :root, html {
+        min-height: var(--screen-page-height);
+    }
+    .no-screen {
+        display: none
+    }
+}
+
+
+.representation, .representation * {
+    color: var(--ts-color-heading);
+    background-color: var(--ts-color-standout);
+    font-weight: var(--ts-font-weight-bold);
+}
+
+.katex math * {
+    font-family: 'Noto Sans Math' !important;
+}
+
+.katex-html * {
+    display: none;
+}
+
+.student {
+    font-family: 'Caveat', cursive;
+    font-size: 200%;
+}
+
+.student-2 {
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 180%;
+}
+
+.student-3 {
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 180%;
+}
+
+.student-4 {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 185%;
+}
+
+.student-5 {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 175%;
+}
+
+.student-6 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 180%;
+}
+
+.student-ell {
+    font-family: 'Mali', cursive;
+    font-size: 170%;
+}
+
+.student-ell-2 {
+    font-family: 'Tillana', cursive;
+    font-size: 170%;
+}
+
+.student,
+.student-2,
+.student-3,
+.student-4,
+.student-5,
+.student-6,
+.student-ell,
+.student-ell-2
+{
+    border-top-left-radius: 10em 1em;
+    border-top-right-radius: 1em 10em;
+    border-bottom-right-radius: 10em 1em;
+    border-bottom-left-radius:1em 10em;
+}
+
+.student :not(.katex math) *,
+.student-2 :not(.katex math) *,
+.student-3 :not(.katex math) *,
+.student-4 :not(.katex math) *,
+.student-5 :not(.katex math) *,
+.student-6 :not(.katex math) *,
+.student-ell :not(.katex math) *,
+.student-ell-2 :not(.katex math) *
+{
+    font-family: inherit;
+    font-size: inherit;
+    border-radius: inherit;
+}
+
+@media screen {
+    .student,
+    .student-2,
+    .student-3,
+    .student-4,
+    .student-5,
+    .student-6,
+    .student-ell,
+    .student-ell-2,
+    {
+        color: #3A3A3A;
+    }
+
+    .student *,
+    .student-2 *,
+    .student-3 *,
+    .student-4 *,
+    .student-5 *,
+    .student-6 *,
+    .student-ell *,
+    .student-ell-2 *
+    {
+        color: inherit;
+    }
+}
+
+@media print {
+    .student,
+    .student-2,
+    .student-3,
+    .student-4,
+    .student-5,
+    .student-6,
+    .student-ell,
+    .student-ell-2
+    {
+        color: #6b6b6b;
+    }
+
+    .student *,
+    .student-2 *,
+    .student-3 *,
+    .student-4 *,
+    .student-5 *,
+    .student-6 *,
+    .student-ell *,
+    .student-ell-2 *
+    {
+        color: inherit;
+    }
+}
+
+.teacher {
+    font-family: 'Shantell Sans', cursive;
+}
+
+.teacher-1 {
+    font-family: 'Comfortaa', cursive;
+}
+
+.teacher-2 {
+    font-family: 'Merienda', cursive;
+}
+
+.teacher,
+.teacher-1,
+.teacher-2 {
+    color: var(--ts-color-muted);
+    font-size: 180%;
+    border-top-left-radius: 30em 1em;
+    border-top-right-radius: 4em 40em;
+    border-bottom-right-radius: 25em 5em;
+    border-bottom-left-radius:10em 50em;
+}
+
+.teacher :not(.katex math) *,
+{
+    color: inherit;
+    font-family: inherit;
+    font-size: inherit;
+    border-radius: inherit;
+}
+
+
+.student td,
+.student-2 td,
+.student-3 td,
+.student-4 td,
+.student-5 td,
+.student-6 td,
+.student-ell td,
+.student-ell-2 td,
+.teacher td
+{
+    border-radius: 0 !important;
+}
+
+.flledInput * {
+    line-height:var(--ts-line-height-heading);
+    border-radius: initial !important;
+    border-color: initial;
+}
+
+.lesson-target {
+    font-size: 80%;
+    color: var(--ts-color-muted);
+    text-transform: uppercase;
+    letter-spacing:clamp(0em,-1vw,-0.01em);
+    font-family: var(--ts-font-family-sans);
+}
