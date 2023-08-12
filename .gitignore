@@ -1,9 +1,11 @@
 /Archive
 /tests
 /templates
+*/vids
 *nim
 *nimib
 *org
+*pdf
 *sync-conflict*
 *slides*
 !*slides*.html
