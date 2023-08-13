@@ -1,6 +1,9 @@
 /Archive
 /tests
 /templates
+*private*
+*solutions*
+*planning*
 */vids
 *nim
 *nimib
@@ -9,3 +12,4 @@
 *sync-conflict*
 *slides*
 !*slides*.html
+#*
