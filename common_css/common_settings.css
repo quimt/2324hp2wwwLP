@@ -47,18 +47,25 @@
     border-right: solid var(--ts-color-subtle);
 }
 
+:root {
+    --screen-page-height: 100em;
+}
+
 @media print {
+    :root, html {
+        --screen-page-height: vh;
+    }
     .no-print {
-        display: none
+        display: none;
     }
 }
 
 @media screen {
     :root, html {
-        min-height: var(--screen-page-height);
+        --screen-page-height: em;
     }
     .no-screen {
-        display: none
+        display: none;
     }
 }
 
