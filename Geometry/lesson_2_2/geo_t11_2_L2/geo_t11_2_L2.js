@@ -155,10 +155,10 @@ var NTI1862270992 = {size: 0, kind: 22, base: null, node: null, finalizer: null}
 var NTI1761608050 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2533360028 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI2533360254 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI520095777 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI520095785 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI771751960 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2634022915 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI520095710 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI520095712 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2566914060 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2566914059 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI2566914103 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -172,7 +172,7 @@ var NTI2617245844 = {size: 0, kind: 17, base: null, node: null, finalizer: null}
 var NTI2013266567 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2013266566 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI2617245699 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI520095439 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
+var NTI520095440 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2013266559 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI2013266558 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
 var NTI2533359619 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
@@ -358,9 +358,9 @@ var NNI2533359619 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "class", len: 0, typ: NTI2013266558, name: "class", sons: null}]};
 NTI2533359619.node = NNI2533359619;
 NTI2533359619.base = NTI1610612743;
-var NNI520095439 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+var NNI520095440 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI520095439.node = NNI520095439;
+NTI520095440.node = NNI520095440;
 var NNI2013266567 = {kind: 1, offset: "val", len: 0, typ: NTI33554450, name: "val", sons: null};
 NTI2013266567.node = NNI2013266567;
 NTI2013266566.base = NTI2013266567;
@@ -393,9 +393,9 @@ var NNI2566914446 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "text", len: 0, typ: NTI2013266558, name: "text", sons: null}]};
 NTI2566914446.node = NNI2566914446;
 NTI2566914446.base = NTI1610612743;
-var NNI520095710 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+var NNI520095712 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI520095710.node = NNI520095710;
+NTI520095712.node = NNI520095712;
 var NNI2634022915 = {kind: 2, len: 4, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "n", len: 0, typ: NTI2013266574, name: "n", sons: null}, 
 {kind: 1, offset: "width", len: 0, typ: NTI2013266566, name: "width", sons: null}, 
 {kind: 1, offset: "class", len: 0, typ: NTI2013266566, name: "class", sons: null}, 
@@ -405,9 +405,9 @@ NTI2634022915.base = NTI1610612743;
 var NNI771751960 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "a", len: 0, typ: NTI33554435, name: "a", sons: null}, 
 {kind: 1, offset: "b", len: 0, typ: NTI33554435, name: "b", sons: null}]};
 NTI771751960.node = NNI771751960;
-var NNI520095777 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
+var NNI520095785 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI33554449, name: "Field1", sons: null}]};
-NTI520095777.node = NNI520095777;
+NTI520095785.node = NNI520095785;
 var NNI2533360254 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "height", len: 0, typ: NTI2013266558, name: "height", sons: null}, 
 {kind: 1, offset: "width", len: 0, typ: NTI2013266558, name: "width", sons: null}]};
 NTI2533360254.node = NNI2533360254;
@@ -5970,36 +5970,36 @@ function rand_2449473647(r_2449473649, max_2449473650) {
 
 }
 
-function rand_520094015(r_520094017, x_520094018) {
-  var result_520094019 = 0;
+function rand_520094013(r_520094015, x_520094016) {
+  var result_520094017 = 0;
 
   var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
-    if (!((x_520094018.a <= x_520094018.b))) {
+    if (!((x_520094016.a <= x_520094016.b))) {
     F.line = 339;
     F.filename = "random.nim";
     failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim(339, 3) `x.a <= x.b` "));
     }
     
     F.line = 346;
-    result_520094019 = Number(BigInt.asIntN(32, BigInt.asUintN(64, (rand_2449473647(r_520094017, BigInt.asUintN(64, (BigInt.asUintN(64, BigInt(x_520094018.b)) - BigInt.asUintN(64, BigInt(x_520094018.a))))) + BigInt.asUintN(64, BigInt(x_520094018.a))))));
+    result_520094017 = Number(BigInt.asIntN(32, BigInt.asUintN(64, (rand_2449473647(r_520094015, BigInt.asUintN(64, (BigInt.asUintN(64, BigInt(x_520094016.b)) - BigInt.asUintN(64, BigInt(x_520094016.a))))) + BigInt.asUintN(64, BigInt(x_520094016.a))))));
   framePtr = F.prev;
 
-  return result_520094019;
+  return result_520094017;
 
 }
 
-function rand_520094003(x_520094005) {
-  var result_520094006 = 0;
+function rand_520094001(x_520094003) {
+  var result_520094004 = 0;
 
   var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 368;
     F.filename = "random.nim";
-    result_520094006 = rand_520094015(state_2449473550[0], x_520094005);
+    result_520094004 = rand_520094013(state_2449473550[0], x_520094003);
   framePtr = F.prev;
 
-  return result_520094006;
+  return result_520094004;
 
 }
 
@@ -6566,7 +6566,7 @@ function callRouter_520093809(force_520093810) {
     var Temporary1;
                     var Temporary19;
 
-  var F = {procname: "geo_t21_2_L2.callRouter", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.9.9-39c5b9ffdddee5d51ff14a4d8e726c33a4672739/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "geo_t11_2_L2.callRouter", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.9.9-39c5b9ffdddee5d51ff14a4d8e726c33a4672739/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 596;
@@ -6584,11 +6584,11 @@ function callRouter_520093809(force_520093810) {
     }
     
     if (eqStrings(path_520093812, [47])) {
-    F.line = 13;
-    F.filename = "geo_t21_2_L2.nim";
-    F.line = 11;
+    F.line = 12;
+    F.filename = "geo_t11_2_L2.nim";
+    F.line = 10;
     var _comp681213_520093893 = initPersonFonts_2499805252([99,111,109,112,54,56,49,50,49,51], 1, 2, 1, 1);
-    F.line = 11;
+    F.line = 10;
     var comp681213_520093894 = registerComponent_1610618481("comp681213", _comp681213_520093893);
     F.line = 120;
     F.filename = "macro_utils.nim";
@@ -6603,10 +6603,10 @@ function callRouter_520093809(force_520093810) {
     window.addEventListener('pagehide', data_comp681213_520093895.pageHide);
     F.line = 120;
     window.addEventListener('pageshow', data_comp681213_520093895.pageShow);
-    F.line = 12;
-    F.filename = "geo_t21_2_L2.nim";
+    F.line = 11;
+    F.filename = "geo_t11_2_L2.nim";
     var _comp791414_520093896 = initMathJax_2483028086([99,111,109,112,55,57,49,52,49,52]);
-    F.line = 12;
+    F.line = 11;
     var comp791414_520093897 = registerComponent_1610618481("comp791414", _comp791414_520093896);
     F.line = 120;
     F.filename = "macro_utils.nim";
@@ -6628,8 +6628,8 @@ function callRouter_520093809(force_520093810) {
     F.filename = "macro_utils.nim";
     var collectResult_520093900 = newSeq_2499805476(0);
     Label2: {
-      F.line = 13;
-      F.filename = "geo_t21_2_L2.nim";
+      F.line = 12;
+      F.filename = "geo_t11_2_L2.nim";
       var k_520094775 = 0;
       F.line = 90;
       F.filename = "iterators_1.nim";
@@ -6638,23 +6638,23 @@ function callRouter_520093809(force_520093810) {
         F.line = 91;
           Label4: while (true) {
           if (!(res_520095719 <= 3)) break Label4;
-            F.line = 13;
-            F.filename = "geo_t21_2_L2.nim";
+            F.line = 12;
+            F.filename = "geo_t11_2_L2.nim";
             k_520094775 = res_520095719;
-            F.line = 13;
+            F.line = 12;
             c8_520093899 = addInt(c8_520093899, 1);
+            F.line = 12;
             F.line = 13;
-            F.line = 14;
             var _comp9111816_520094781 = initPages_2533359627(([99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), 1, [], []);
-            F.line = 14;
+            F.line = 13;
             var comp9111816_520094782 = registerComponent_1610618481(toJSStr(([99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp9111816_520094781);
             F.line = 120;
             F.filename = "macro_utils.nim";
             F.line = 749;
             var collectResult_520094783 = newSeq_2499805476(0);
             Label5: {
-              F.line = 15;
-              F.filename = "geo_t21_2_L2.nim";
+              F.line = 14;
+              F.filename = "geo_t11_2_L2.nim";
               var i_520095194 = 0;
               F.line = 90;
               F.filename = "iterators_1.nim";
@@ -6663,21 +6663,21 @@ function callRouter_520093809(force_520093810) {
                 F.line = 91;
                   Label7: while (true) {
                   if (!(res_520095717 <= 2)) break Label7;
-                    F.line = 15;
-                    F.filename = "geo_t21_2_L2.nim";
+                    F.line = 14;
+                    F.filename = "geo_t11_2_L2.nim";
                     i_520095194 = res_520095717;
-                    F.line = 15;
+                    F.line = 14;
                     c8_520093899 = addInt(c8_520093899, 1);
-                    F.line = 15;
+                    F.line = 14;
                     Label8: {
-                      F.line = 16;
+                      F.line = 15;
                       var fmtRes_520095204 = mnewString(0);
-                      F.line = 16;
+                      F.line = 15;
                       fmtRes_520095204.push.apply(fmtRes_520095204, [102,108,101,120,58,32,49,32,48,32,48,59,32,100,105,115,112,108,97,121,58,102,108,101,120,59,32,102,108,101,120,45,100,105,114,101,99,116,105,111,110,58,32,99,111,108,117,109,110,59]);;
                     };
-                    F.line = 17;
+                    F.line = 16;
                     var _comp11132218_520095208 = initNamePrompt_2617245704(([99,111,109,112,49,49,49,51,50,50,49,56,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), "Name");
-                    F.line = 17;
+                    F.line = 16;
                     var comp11132218_520095209 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,49,49,51,50,50,49,56,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp11132218_520095208);
                     F.line = 120;
                     F.filename = "macro_utils.nim";
@@ -6692,19 +6692,19 @@ function callRouter_520093809(force_520093810) {
                     window.addEventListener('pagehide', data_comp11132218_520095210.pageHide);
                     F.line = 120;
                     window.addEventListener('pageshow', data_comp11132218_520095210.pageShow);
-                    F.line = 18;
-                    F.filename = "geo_t21_2_L2.nim";
-                    var _comp12142419_520095211 = initWorksheetHeader_2617245866(([99,111,109,112,49,50,49,52,50,52,49,57,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), "Geometry Must Do 1.2.4");
-                    F.line = 18;
+                    F.line = 17;
+                    F.filename = "geo_t11_2_L2.nim";
+                    var _comp12142419_520095211 = initWorksheetHeader_2617245866(([99,111,109,112,49,50,49,52,50,52,49,57,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), "Geometry Should Do 1.2.5");
+                    F.line = 17;
                     var comp12142419_520095212 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,50,49,52,50,52,49,57,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp12142419_520095211);
                     F.line = 120;
                     F.filename = "macro_utils.nim";
                     Label9: {
-                      F.line = 19;
-                      F.filename = "geo_t21_2_L2.nim";
+                      F.line = 18;
+                      F.filename = "geo_t11_2_L2.nim";
                       var fmtRes_520095217 = mnewString(0);
-                      F.line = 19;
-                      fmtRes_520095217.push.apply(fmtRes_520095217, [114,101,99,111,103,110,105,122,101,32,100,105,118,105,115,105,111,110,32,119,105,116,104,32,98,108,111,99,107,115]);;
+                      F.line = 18;
+                      fmtRes_520095217.push.apply(fmtRes_520095217, [82,101,99,111,103,110,105,122,101,32,109,117,108,116,105,112,108,105,99,97,116,105,111,110,32,105,110,32,116,104,101,32,98,108,111,99,107,32,109,111,100,101,108]);;
                     };
                     comp12142419_520095212.slot = initTag_1761607833([100,105,118], [initTag_1761607891(fmtRes_520095217, true, [], false)], true);
                     F.line = 736;
@@ -6718,18 +6718,18 @@ function callRouter_520093809(force_520093810) {
                     window.addEventListener('pagehide', data_comp12142419_520095226.pageHide);
                     F.line = 736;
                     window.addEventListener('pageshow', data_comp12142419_520095226.pageShow);
-                    F.line = 20;
-                    F.filename = "geo_t21_2_L2.nim";
+                    F.line = 19;
+                    F.filename = "geo_t11_2_L2.nim";
                     var _comp13152620_520095227 = initProbGrid_2533359846(([99,111,109,112,49,51,49,53,50,54,50,48,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), 1, 1.0, [], []);
-                    F.line = 20;
+                    F.line = 19;
                     var comp13152620_520095228 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,51,49,53,50,54,50,48,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp13152620_520095227);
                     F.line = 120;
                     F.filename = "macro_utils.nim";
                     F.line = 749;
                     var collectResult_520095229 = newSeq_2499805476(0);
                     Label10: {
-                      F.line = 21;
-                      F.filename = "geo_t21_2_L2.nim";
+                      F.line = 20;
+                      F.filename = "geo_t11_2_L2.nim";
                       var j_520095393 = 0;
                       F.line = 90;
                       F.filename = "iterators_1.nim";
@@ -6738,15 +6738,15 @@ function callRouter_520093809(force_520093810) {
                         F.line = 91;
                           Label12: while (true) {
                           if (!(res_520095715 <= 2)) break Label12;
-                            F.line = 21;
-                            F.filename = "geo_t21_2_L2.nim";
+                            F.line = 20;
+                            F.filename = "geo_t11_2_L2.nim";
                             j_520095393 = res_520095715;
-                            F.line = 21;
+                            F.line = 20;
                             c8_520093899 = addInt(c8_520093899, 1);
+                            F.line = 20;
                             F.line = 21;
-                            F.line = 22;
                             var _comp15173022_520095399 = initprobMark_2566914564(([99,111,109,112,49,53,49,55,51,48,50,50,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || []), pCount_2566914144[0], 0, []);
-                            F.line = 22;
+                            F.line = 21;
                             var comp15173022_520095400 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,53,49,55,51,48,50,50,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp15173022_520095399);
                             F.line = 120;
                             F.filename = "macro_utils.nim";
@@ -6762,95 +6762,96 @@ function callRouter_520093809(force_520093810) {
                             F.line = 120;
                             window.addEventListener('pageshow', data_comp15173022_520095401.pageShow);
                             Label13: {
-                              F.line = 23;
-                              F.filename = "geo_t21_2_L2.nim";
+                              F.line = 22;
+                              F.filename = "geo_t11_2_L2.nim";
                               var fmtRes_520095406 = mnewString(0);
-                              F.line = 23;
-                              fmtRes_520095406.push.apply(fmtRes_520095406, makeNimstrLit(" Write the value of the blank blocks using division or fractions."));;
+                              F.line = 22;
+                              fmtRes_520095406.push.apply(fmtRes_520095406, [32,87,114,105,116,101,32,116,104,101,32,118,97,108,117,101,32,111,102,32,116,104,101,32,98,108,97,110,107,32,98,108,111,99,107,115,32,117,115,105,110,103,32,109,117,108,116,105,112,108,105,99,97,116,105,111,110,46]);;
                             };
                             Label14: {
-                              F.line = 24;
+                              F.line = 23;
                               var fmtRes_520095411 = mnewString(0);
-                              F.line = 24;
+                              F.line = 23;
                               fmtRes_520095411.push.apply(fmtRes_520095411, [115,116,117,100,101,110,116]);;
                             };
                             Label15: {
-                              F.line = 24;
+                              F.line = 23;
                               var fmtRes_520095416 = mnewString(0);
-                              F.line = 24;
+                              F.line = 23;
                               fmtRes_520095416.push.apply(fmtRes_520095416, [100,105,115,112,108,97,121,58,102,108,101,120,59]);;
                             };
-                            F.line = 25;
-                            var _comp16183223_520095420 = initmBlocks_2634022925(([99,111,109,112,49,54,49,56,51,50,50,51,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || []), 1, "40vw", "", "");
-                            F.line = 25;
-                            var comp16183223_520095421 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,54,49,56,51,50,50,51,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp16183223_520095420);
+                            F.line = 24;
+                            var _comp16183223_520095439 = initmBlocks_2634022925(([99,111,109,112,49,54,49,56,51,50,50,51,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || []), rand_520094001(HEX2EHEX2E_771751986(2, 7)), "40vw", "", "");
+                            F.line = 24;
+                            var comp16183223_520095440 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,54,49,56,51,50,50,51,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp16183223_520095439);
                             F.line = 120;
                             F.filename = "macro_utils.nim";
-                            comp16183223_520095421.slot = initTag_1761607833([100,105,118], [initTag_1761607833([100,105,118], [initTag_1761607891(HEX24_369098760(rand_520094003(HEX2EHEX2E_771751986(1, 9))), true, [], false)], false)], true);
+                            comp16183223_520095440.slot = initTag_1761607833([100,105,118], [initTag_1761607891(HEX24_369098760(rand_520094001(HEX2EHEX2E_771751986(1, 13))), true, [], false)], true);
                             F.line = 736;
                             F.filename = "macros.nim";
-                            var data_comp16183223_520095457 = render_1610618911(comp16183223_520095421);
+                            var data_comp16183223_520095468 = render_1610618911(comp16183223_520095440);
                             F.line = 736;
-                            addArgIter_1761608049(data_comp16183223_520095457, ([100,97,116,97,45] || []).concat(comp16183223_520095421.uniqCompId || []));
+                            addArgIter_1761608049(data_comp16183223_520095468, ([100,97,116,97,45] || []).concat(comp16183223_520095440.uniqCompId || []));
                             F.line = 736;
-                            window.addEventListener('beforeunload', data_comp16183223_520095457.exited);
+                            window.addEventListener('beforeunload', data_comp16183223_520095468.exited);
                             F.line = 736;
-                            window.addEventListener('pagehide', data_comp16183223_520095457.pageHide);
+                            window.addEventListener('pagehide', data_comp16183223_520095468.pageHide);
                             F.line = 736;
-                            window.addEventListener('pageshow', data_comp16183223_520095457.pageShow);
+                            window.addEventListener('pageshow', data_comp16183223_520095468.pageShow);
                             Label16: {
-                              F.line = 27;
-                              F.filename = "geo_t21_2_L2.nim";
-                              var fmtRes_520095462 = mnewString(0);
+                              F.line = 25;
+                              F.filename = "geo_t11_2_L2.nim";
+                              var fmtRes_520095473 = mnewString(0);
                             };
                             Label17: {
-                              F.line = 27;
-                              var fmtRes_520095467 = mnewString(0);
-                              F.line = 27;
-                              fmtRes_520095467.push.apply(fmtRes_520095467, [102,111,110,116,45,115,105,122,101,58,49,48,48,37,59,32,109,97,114,103,105,110,45,108,101,102,116,58,32,48,46,53,101,109,59,32,109,97,114,103,105,110,45,114,105,103,104,116,58,32,48,46,53,101,109,59]);;
+                              F.line = 25;
+                              var fmtRes_520095478 = mnewString(0);
+                              F.line = 25;
+                              fmtRes_520095478.push.apply(fmtRes_520095478, [102,111,110,116,45,115,105,122,101,58,49,48,48,37,59,32,109,97,114,103,105,110,45,108,101,102,116,58,32,48,46,53,101,109,59,32,109,97,114,103,105,110,45,114,105,103,104,116,58,32,48,46,53,101,109,59]);;
                             };
                             Label18: {
-                              F.line = 27;
-                              var fmtRes_520095475 = mnewString(0);
-                              F.line = 27;
-                              fmtRes_520095475.push.apply(fmtRes_520095475, [32,61,32]);;
+                              F.line = 25;
+                              var fmtRes_520095486 = mnewString(0);
+                              F.line = 25;
+                              fmtRes_520095486.push.apply(fmtRes_520095486, [32,61,32]);;
                             };
-                            F.line = 28;
-                            var _comp17193424_520095503 = initmBlocks_2634022925(([99,111,109,112,49,55,49,57,51,52,50,52,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || []), rand_520094003(HEX2EHEX2E_771751986(2, 7)), "40vw", "", "");
-                            F.line = 28;
-                            var comp17193424_520095504 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,55,49,57,51,52,50,52,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp17193424_520095503);
+                            F.line = 26;
+                            var _comp17193424_520095495 = initmBlocks_2634022925(([99,111,109,112,49,55,49,57,51,52,50,52,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || []), 1, "40vw", "", "");
+                            F.line = 26;
+                            var comp17193424_520095496 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,55,49,57,51,52,50,52,99,111,109,112,49,51,49,53,50,54,50,48] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp17193424_520095495);
                             F.line = 120;
                             F.filename = "macro_utils.nim";
-                            F.line = 28;
-                            F.filename = "geo_t21_2_L2.nim";
-                            var _comp18203625_520095505 = initStrut_2533360404(([99,111,109,112,49,56,50,48,51,54,50,53,99,111,109,112,49,55,49,57,51,52,50,52] || []).concat(HEX24_369098760(c8_520093899) || []), [49,101,109], [49,101,109]);
-                            F.line = 28;
-                            var comp18203625_520095506 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,56,50,48,51,54,50,53,99,111,109,112,49,55,49,57,51,52,50,52] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp18203625_520095505);
+                            F.line = 27;
+                            F.filename = "geo_t11_2_L2.nim";
+                            var _comp18203625_520095497 = initStrut_2533360404(([99,111,109,112,49,56,50,48,51,54,50,53,99,111,109,112,49,55,49,57,51,52,50,52] || []).concat(HEX24_369098760(c8_520093899) || []), [49,101,109], [49,101,109]);
+                            F.line = 27;
+                            var comp18203625_520095498 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,56,50,48,51,54,50,53,99,111,109,112,49,55,49,57,51,52,50,52] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp18203625_520095497);
                             F.line = 120;
                             F.filename = "macro_utils.nim";
-                            comp18203625_520095506.slot = initTag_1761607833([100,105,118], [], true);
+                            comp18203625_520095498.slot = initTag_1761607833([100,105,118], [], true);
                             F.line = 120;
-                            var data_comp18203625_520095507 = render_1610618911(comp18203625_520095506);
+                            var data_comp18203625_520095499 = render_1610618911(comp18203625_520095498);
                             F.line = 120;
-                            addArgIter_1761608049(data_comp18203625_520095507, ([100,97,116,97,45] || []).concat(comp18203625_520095506.uniqCompId || []));
+                            addArgIter_1761608049(data_comp18203625_520095499, ([100,97,116,97,45] || []).concat(comp18203625_520095498.uniqCompId || []));
                             F.line = 120;
-                            window.addEventListener('beforeunload', data_comp18203625_520095507.exited);
+                            window.addEventListener('beforeunload', data_comp18203625_520095499.exited);
                             F.line = 120;
-                            window.addEventListener('pagehide', data_comp18203625_520095507.pageHide);
+                            window.addEventListener('pagehide', data_comp18203625_520095499.pageHide);
                             F.line = 120;
-                            window.addEventListener('pageshow', data_comp18203625_520095507.pageShow);
-                            comp17193424_520095504.slot = initTag_1761607833([100,105,118], [data_comp18203625_520095507], true);
-                            F.line = 120;
-                            var data_comp17193424_520095516 = render_1610618911(comp17193424_520095504);
-                            F.line = 120;
-                            addArgIter_1761608049(data_comp17193424_520095516, ([100,97,116,97,45] || []).concat(comp17193424_520095504.uniqCompId || []));
-                            F.line = 120;
+                            window.addEventListener('pageshow', data_comp18203625_520095499.pageShow);
+                            comp17193424_520095496.slot = initTag_1761607833([100,105,118], [initTag_1761607833([100,105,118], [data_comp18203625_520095499], false)], true);
+                            F.line = 736;
+                            F.filename = "macros.nim";
+                            var data_comp17193424_520095516 = render_1610618911(comp17193424_520095496);
+                            F.line = 736;
+                            addArgIter_1761608049(data_comp17193424_520095516, ([100,97,116,97,45] || []).concat(comp17193424_520095496.uniqCompId || []));
+                            F.line = 736;
                             window.addEventListener('beforeunload', data_comp17193424_520095516.exited);
-                            F.line = 120;
+                            F.line = 736;
                             window.addEventListener('pagehide', data_comp17193424_520095516.pageHide);
-                            F.line = 120;
+                            F.line = 736;
                             window.addEventListener('pageshow', data_comp17193424_520095516.pageShow);
-                            collectResult_520095229.push(initTag_1761607833([100,105,118], [initTag_1761607833([100,105,118], [data_comp15173022_520095401, initTag_1761607891(fmtRes_520095406, true, [], false), initTag_1761607699([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: nimCopy(null, fmtRes_520095411, NTI33554449)}, NTI520095710), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095416, NTI33554449)}, NTI520095710)], 0), [data_comp16183223_520095457, initTag_1761607699([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: nimCopy(null, fmtRes_520095462, NTI33554449)}, NTI520095777), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095467, NTI33554449)}, NTI520095777)], 0), [initTag_1761607891(fmtRes_520095475, true, [], false)], false), data_comp17193424_520095516], false)], false)], true));;
+                            collectResult_520095229.push(initTag_1761607833([100,105,118], [initTag_1761607833([100,105,118], [data_comp15173022_520095401, initTag_1761607891(fmtRes_520095406, true, [], false), initTag_1761607699([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: nimCopy(null, fmtRes_520095411, NTI33554449)}, NTI520095712), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095416, NTI33554449)}, NTI520095712)], 0), [data_comp16183223_520095468, initTag_1761607699([115,112,97,110], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [99,108,97,115,115], Field1: nimCopy(null, fmtRes_520095473, NTI33554449)}, NTI520095785), nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095478, NTI33554449)}, NTI520095785)], 0), [initTag_1761607891(fmtRes_520095486, true, [], false)], false), data_comp17193424_520095516], false)], false)], true));;
                             F.line = 93;
                             F.filename = "iterators_1.nim";
                             res_520095715 = addInt(res_520095715, 1);
@@ -6870,10 +6871,10 @@ function callRouter_520093809(force_520093810) {
                     F.line = 736;
                     window.addEventListener('pageshow', data_comp13152620_520095553.pageShow);
                     if (!((i_520095194 == 2))) {
-                    F.line = 29;
-                    F.filename = "geo_t21_2_L2.nim";
+                    F.line = 28;
+                    F.filename = "geo_t11_2_L2.nim";
                     var _comp19213826_520095562 = initCutRule_2533360129(([99,111,109,112,49,57,50,49,51,56,50,54,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || []), "");
-                    F.line = 29;
+                    F.line = 28;
                     var comp19213826_520095563 = registerComponent_1610618481(toJSStr(([99,111,109,112,49,57,50,49,51,56,50,54,99,111,109,112,57,49,49,49,56,49,54] || []).concat(HEX24_369098760(c8_520093899) || [])), _comp19213826_520095562);
                     F.line = 120;
                     F.filename = "macro_utils.nim";
@@ -6894,10 +6895,10 @@ function callRouter_520093809(force_520093810) {
                     Temporary19 = null;
                     }
                     
-                    F.line = 30;
-                    F.filename = "geo_t21_2_L2.nim";
+                    F.line = 29;
+                    F.filename = "geo_t11_2_L2.nim";
                     reset_2566914077(pCount_2566914144, 0);
-                    collectResult_520094783.push(initTag_1761607833([100,105,118], [initTag_1761607699([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095204, NTI33554449)}, NTI520095439)], 0), [data_comp11132218_520095210, data_comp12142419_520095226, data_comp13152620_520095553], false), Temporary19, initTag_1761607833([100,105,118], [], true)], true));;
+                    collectResult_520094783.push(initTag_1761607833([100,105,118], [initTag_1761607699([100,105,118], nstnewStringTableWithTableConstr([nimCopy(null, {Field0: [115,116,121,108,101], Field1: nimCopy(null, fmtRes_520095204, NTI33554449)}, NTI520095440)], 0), [data_comp11132218_520095210, data_comp12142419_520095226, data_comp13152620_520095553], false), Temporary19, initTag_1761607833([100,105,118], [], true)], true));;
                     F.line = 93;
                     F.filename = "iterators_1.nim";
                     res_520095717 = addInt(res_520095717, 1);
@@ -6939,7 +6940,7 @@ function callRouter_520093809(force_520093810) {
 }
 
 function onDOMContentLoaded_520095625(ev_520095626) {
-  var F = {procname: "geo_t21_2_L2.onDOMContentLoaded", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.9.9-39c5b9ffdddee5d51ff14a4d8e726c33a4672739/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "geo_t11_2_L2.onDOMContentLoaded", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.9.9-39c5b9ffdddee5d51ff14a4d8e726c33a4672739/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 596;
     F.filename = "renderer.nim";
@@ -6970,12 +6971,12 @@ function route_1610618441(path_1610618442) {
 
   
 }
-var F = {procname: "module geo_t21_2_L2", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson_2_2/geo_t21_2_L2/geo_t21_2_L2.nim", line: 0};
+var F = {procname: "module geo_t11_2_L2", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson_2_2/geo_t11_2_L2/geo_t11_2_L2.nim", line: 0};
 framePtr = F;
 F.line = 7;
-F.filename = "geo_t21_2_L2.nim";
+F.filename = "geo_t11_2_L2.nim";
 randomize_2449473834();
-F.line = 9;
+F.line = 8;
 var app_520093712 = [registerApp_1610618446("ROOT")];
 F.line = 418;
 F.filename = "renderer.nim";
@@ -7004,7 +7005,7 @@ else {
 }
 
 framePtr = F.prev;
-var F = {procname: "module geo_t21_2_L2", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson_2_2/geo_t21_2_L2/geo_t21_2_L2.nim", line: 0};
+var F = {procname: "module geo_t11_2_L2", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson_2_2/geo_t11_2_L2/geo_t11_2_L2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
