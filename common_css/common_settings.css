@@ -49,6 +49,7 @@
 
 :root {
     --screen-page-height: 100em;
+    --color-graphite: #6b6b6b;
 }
 
 @media print {
@@ -82,6 +83,10 @@
 
 .katex-html * {
     display: none;
+}
+
+.mono {
+    font-family: 'Inconsolata';
 }
 
 .student {
