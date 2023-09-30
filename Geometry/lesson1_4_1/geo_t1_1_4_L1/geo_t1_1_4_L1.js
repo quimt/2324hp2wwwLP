@@ -1922,334 +1922,334 @@ var ConstSet15 = setConstr(46, 44);
 var ConstSet16 = setConstr([65, 90]);
 var ConstSet17 = setConstr([97, 122]);
       var UnclosedTags_1795162129 = [[97,114,101,97], [98,97,115,101], [98,97,115,101,102,111,110,116], [98,114], [99,111,108], [102,114,97,109,101], [104,114], [105,109,103], [105,115,105,110,100,101,120], [108,105,110,107], [109,101,116,97], [112,97,114,97,109], [119,98,114], [115,111,117,114,99,101], [105,110,112,117,116]];
-var F = {procname: "module macros", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/core/macros.nim", line: 0};
+var F = {procname: "module macros", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/core/macros.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macros", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/core/macros.nim", line: 0};
+var F = {procname: "module macros", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/core/macros.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parseutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
+var F = {procname: "module parseutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parseutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
+var F = {procname: "module parseutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strbasics", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/strbasics.nim", line: 0};
+var F = {procname: "module strbasics", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/strbasics.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strbasics", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/strbasics.nim", line: 0};
+var F = {procname: "module strbasics", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/strbasics.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module unicode", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+var F = {procname: "module unicode", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module unicode", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+var F = {procname: "module unicode", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module bitops_utils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/bitops_utils.nim", line: 0};
+var F = {procname: "module bitops_utils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/bitops_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module bitops_utils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/bitops_utils.nim", line: 0};
+var F = {procname: "module bitops_utils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/bitops_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module countbits_impl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/countbits_impl.nim", line: 0};
+var F = {procname: "module countbits_impl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/countbits_impl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module countbits_impl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/countbits_impl.nim", line: 0};
+var F = {procname: "module countbits_impl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/countbits_impl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module bitops", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/bitops.nim", line: 0};
+var F = {procname: "module bitops", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/bitops.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module bitops", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/bitops.nim", line: 0};
+var F = {procname: "module bitops", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/bitops.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fenv", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/fenv.nim", line: 0};
+var F = {procname: "module fenv", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/fenv.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fenv", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/fenv.nim", line: 0};
+var F = {procname: "module fenv", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/fenv.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module math", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/math.nim", line: 0};
+var F = {procname: "module math", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/math.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module math", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/math.nim", line: 0};
+var F = {procname: "module math", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/math.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module algorithm", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/algorithm.nim", line: 0};
+var F = {procname: "module algorithm", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/algorithm.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module algorithm", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/algorithm.nim", line: 0};
+var F = {procname: "module algorithm", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/algorithm.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module typetraits", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/typetraits.nim", line: 0};
+var F = {procname: "module typetraits", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/typetraits.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module typetraits", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/typetraits.nim", line: 0};
+var F = {procname: "module typetraits", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/typetraits.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module enumutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/enumutils.nim", line: 0};
+var F = {procname: "module enumutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/enumutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module enumutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/enumutils.nim", line: 0};
+var F = {procname: "module enumutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/enumutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strimpl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
+var F = {procname: "module strimpl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strimpl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
+var F = {procname: "module strimpl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+var F = {procname: "module strutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strutils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+var F = {procname: "module strutils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strformat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+var F = {procname: "module strformat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strformat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+var F = {procname: "module strformat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/exceptions.nim", line: 0};
+var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/exceptions.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/exceptions.nim", line: 0};
+var F = {procname: "module exceptions", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/exceptions.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/constants.nim", line: 0};
+var F = {procname: "module constants", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/constants.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module constants", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/constants.nim", line: 0};
+var F = {procname: "module constants", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/constants.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module hashes", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+var F = {procname: "module hashes", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
 framePtr = F;
 F.line = 218;
 F.filename = "hashes.nim";
 var objectID_1056964785 = [0];
 framePtr = F.prev;
-var F = {procname: "module hashes", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+var F = {procname: "module hashes", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strtabs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+var F = {procname: "module strtabs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module strtabs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+var F = {procname: "module strtabs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module outparams", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/outparams.nim", line: 0};
+var F = {procname: "module outparams", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/outparams.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module outparams", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/outparams.nim", line: 0};
+var F = {procname: "module outparams", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/outparams.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tables", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+var F = {procname: "module tables", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tables", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+var F = {procname: "module tables", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/queries.nim", line: 0};
+var F = {procname: "module queries", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/queries.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module queries", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/queries.nim", line: 0};
+var F = {procname: "module queries", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/queries.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sequtils.nim", line: 0};
+var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sequtils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sequtils.nim", line: 0};
+var F = {procname: "module sequtils", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sequtils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sets", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sets.nim", line: 0};
+var F = {procname: "module sets", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sets.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sets", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sets.nim", line: 0};
+var F = {procname: "module sets", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/sets.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module properties_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties_data.nim", line: 0};
+var F = {procname: "module properties_data", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties_data.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module properties_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties_data.nim", line: 0};
+var F = {procname: "module properties_data", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties_data.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module properties", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties.nim", line: 0};
+var F = {procname: "module properties", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module properties", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties.nim", line: 0};
+var F = {procname: "module properties", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/properties.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/common.nim", line: 0};
+var F = {procname: "module common", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/common.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module common", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/common.nim", line: 0};
+var F = {procname: "module common", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/common.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/exptype.nim", line: 0};
+var F = {procname: "module exptype", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/exptype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/exptype.nim", line: 0};
+var F = {procname: "module exptype", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/exptype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/scanner.nim", line: 0};
+var F = {procname: "module scanner", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/scanner.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module scanner", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/scanner.nim", line: 0};
+var F = {procname: "module scanner", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/scanner.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/parser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/parser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/exptransformation.nim", line: 0};
+var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/exptransformation.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/exptransformation.nim", line: 0};
+var F = {procname: "module exptransformation", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/exptransformation.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types_data.nim", line: 0};
+var F = {procname: "module types_data", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types_data.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types_data", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types_data.nim", line: 0};
+var F = {procname: "module types_data", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types_data.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module types", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types.nim", line: 0};
+var F = {procname: "module types", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/unicodedb-0.12.0-4452416471e2fe8726eb6070ed6ea7368171cc09/unicodedb/types.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nodematch.nim", line: 0};
+var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nodematch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nodematch.nim", line: 0};
+var F = {procname: "module nodematch", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nodematch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module deques", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/deques.nim", line: 0};
+var F = {procname: "module deques", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/deques.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module deques", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/deques.nim", line: 0};
+var F = {procname: "module deques", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/deques.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfa.nim", line: 0};
+var F = {procname: "module nfa", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfa.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfa", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfa.nim", line: 0};
+var F = {procname: "module nfa", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfa.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/litopt.nim", line: 0};
+var F = {procname: "module litopt", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/litopt.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module litopt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/litopt.nim", line: 0};
+var F = {procname: "module litopt", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/litopt.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfatype.nim", line: 0};
+var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfatype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfatype.nim", line: 0};
+var F = {procname: "module nfatype", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfatype.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/compiler.nim", line: 0};
+var F = {procname: "module compiler", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/compiler.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module compiler", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/compiler.nim", line: 0};
+var F = {procname: "module compiler", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/compiler.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamatch.nim", line: 0};
+var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamatch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamatch.nim", line: 0};
+var F = {procname: "module nfamatch", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamatch.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfafindall.nim", line: 0};
+var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfafindall.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfafindall.nim", line: 0};
+var F = {procname: "module nfafindall", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfafindall.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamatch2.nim", line: 0};
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamatch2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamatch2.nim", line: 0};
+var F = {procname: "module nfamatch2", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamatch2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfafindall2.nim", line: 0};
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfafindall2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfafindall2.nim", line: 0};
+var F = {procname: "module nfafindall2", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfafindall2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamacro.nim", line: 0};
+var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamacro.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex/nfamacro.nim", line: 0};
+var F = {procname: "module nfamacro", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex/nfamacro.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex.nim", line: 0};
+var F = {procname: "module regex", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module regex", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/regex-0.21.0-e721938908feadfcf2c98582a4261df3fd98fbf1/regex.nim", line: 0};
+var F = {procname: "module regex", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/regex-0.21.0-a48e8889c998482b7be743b8285ed33c2b8027d8/regex.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/core/macrocache.nim", line: 0};
+var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/core/macrocache.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/core/macrocache.nim", line: 0};
+var F = {procname: "module macrocache", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/core/macrocache.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/private/macro_utils.nim", line: 0};
+var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/private/macro_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/private/macro_utils.nim", line: 0};
+var F = {procname: "module macro_utils", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/private/macro_utils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/use.nim", line: 0};
+var F = {procname: "module use", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/use.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module use", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/use.nim", line: 0};
+var F = {procname: "module use", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/use.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/sgr.nim", line: 0};
+var F = {procname: "module sgr", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/sgr.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sgr", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/sgr.nim", line: 0};
+var F = {procname: "module sgr", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/sgr.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/js.nim", line: 0};
+var F = {procname: "module js", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/js.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module js", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/js.nim", line: 0};
+var F = {procname: "module js", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/js.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/style.nim", line: 0};
+var F = {procname: "module style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/style.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/sugar/style.nim", line: 0};
+var F = {procname: "module style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/sugar/style.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module options", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/options.nim", line: 0};
+var F = {procname: "module options", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/options.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module options", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/options.nim", line: 0};
+var F = {procname: "module options", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/options.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jscore", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jscore.nim", line: 0};
+var F = {procname: "module jscore", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jscore.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jscore", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jscore.nim", line: 0};
+var F = {procname: "module jscore", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jscore.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module times", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+var F = {procname: "module times", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
 framePtr = F;
 F.line = 1371;
 F.filename = "times.nim";
@@ -2261,10 +2261,10 @@ if (globalThis.localInstance_1728054901 === undefined) {
   globalThis.localInstance_1728054901 = [null];
 }
 framePtr = F.prev;
-var F = {procname: "module times", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+var F = {procname: "module times", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module logging", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+var F = {procname: "module logging", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
 framePtr = F;
 F.line = 279;
 F.filename = "logging.nim";
@@ -2276,118 +2276,118 @@ if (globalThis.handlers_1677721628 === undefined) {
   globalThis.handlers_1677721628 = [[]];
 }
 framePtr = F.prev;
-var F = {procname: "module logging", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+var F = {procname: "module logging", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlgen", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlgen.nim", line: 0};
+var F = {procname: "module htmlgen", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlgen.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlgen", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlgen.nim", line: 0};
+var F = {procname: "module htmlgen", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlgen.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/underscored_calls.nim", line: 0};
+var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/underscored_calls.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/underscored_calls.nim", line: 0};
+var F = {procname: "module underscored_calls", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/underscored_calls.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sugar", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/sugar.nim", line: 0};
+var F = {procname: "module sugar", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/sugar.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sugar", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/sugar.nim", line: 0};
+var F = {procname: "module sugar", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/sugar.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module streams", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/streams.nim", line: 0};
+var F = {procname: "module streams", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/streams.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module streams", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/streams.nim", line: 0};
+var F = {procname: "module streams", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/streams.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexbase", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/lexbase.nim", line: 0};
+var F = {procname: "module lexbase", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/lexbase.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexbase", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/lexbase.nim", line: 0};
+var F = {procname: "module lexbase", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/lexbase.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parsexml", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parsexml.nim", line: 0};
+var F = {procname: "module parsexml", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parsexml.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parsexml", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parsexml.nim", line: 0};
+var F = {procname: "module parsexml", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parsexml.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module xmltree", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/xmltree.nim", line: 0};
+var F = {procname: "module xmltree", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/xmltree.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module xmltree", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/xmltree.nim", line: 0};
+var F = {procname: "module xmltree", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/xmltree.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlparser", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlparser.nim", line: 0};
+var F = {procname: "module htmlparser", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlparser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module htmlparser", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlparser.nim", line: 0};
+var F = {procname: "module htmlparser", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/htmlparser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module dom", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/dom.nim", line: 0};
+var F = {procname: "module dom", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/dom.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module dom", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/dom.nim", line: 0};
+var F = {procname: "module dom", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/dom.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+var F = {procname: "module tag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module tag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+var F = {procname: "module tag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/translatable.nim", line: 0};
+var F = {procname: "module translatable", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/translatable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module translatable", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/translatable.nim", line: 0};
+var F = {procname: "module translatable", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/translatable.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module decode_helpers", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/decode_helpers.nim", line: 0};
+var F = {procname: "module decode_helpers", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/decode_helpers.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module decode_helpers", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/decode_helpers.nim", line: 0};
+var F = {procname: "module decode_helpers", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/decode_helpers.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parsejson", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parsejson.nim", line: 0};
+var F = {procname: "module parsejson", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parsejson.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parsejson", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parsejson.nim", line: 0};
+var F = {procname: "module parsejson", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parsejson.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jsffi", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jsffi.nim", line: 0};
+var F = {procname: "module jsffi", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jsffi.nim", line: 0};
 framePtr = F;
 F.line = 45;
 F.filename = "jsffi.nim";
 F.line = 46;
 framePtr = F.prev;
-var F = {procname: "module jsffi", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jsffi.nim", line: 0};
+var F = {procname: "module jsffi", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jsffi.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module json", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/json.nim", line: 0};
+var F = {procname: "module json", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/json.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module json", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/json.nim", line: 0};
+var F = {procname: "module json", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/json.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/routing/routing.nim", line: 0};
+var F = {procname: "module routing", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/routing/routing.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module routing", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/routing/routing.nim", line: 0};
+var F = {procname: "module routing", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/routing/routing.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/routing/mounting.nim", line: 0};
+var F = {procname: "module mounting", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/routing/mounting.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mounting", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/routing/mounting.nim", line: 0};
+var F = {procname: "module mounting", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/routing/mounting.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jsconsole", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jsconsole.nim", line: 0};
+var F = {procname: "module jsconsole", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jsconsole.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module jsconsole", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/js/jsconsole.nim", line: 0};
+var F = {procname: "module jsconsole", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/js/jsconsole.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
@@ -2480,7 +2480,7 @@ function raiseIndexError(i_33556812, a_33556813, b_33556814) {
 function addChars_301990090(result_301990092, result_301990092_Idx, x_301990093, start_301990094, n_301990095) {
     var Temporary1;
 
-  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
+  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
   framePtr = F;
     F.line = 43;
     F.filename = "digitsutils.nim";
@@ -2515,7 +2515,7 @@ function addChars_301990090(result_301990092, result_301990092_Idx, x_301990093,
 }
 
 function addChars_301990086(result_301990088, result_301990088_Idx, x_301990089) {
-  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
+  var F = {procname: "addChars.addChars", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
   framePtr = F;
     F.line = 55;
     F.filename = "digitsutils.nim";
@@ -2526,7 +2526,7 @@ function addChars_301990086(result_301990088, result_301990088_Idx, x_301990089)
 }
 
 function addInt_301990111(result_301990112, result_301990112_Idx, x_301990113) {
-  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
+  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
   framePtr = F;
     F.line = 111;
     F.filename = "digitsutils.nim";
@@ -2537,7 +2537,7 @@ function addInt_301990111(result_301990112, result_301990112_Idx, x_301990113) {
 }
 
 function addInt_301990129(result_301990130, result_301990130_Idx, x_301990131) {
-  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
+  var F = {procname: "digitsutils.addInt", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/digitsutils.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "digitsutils.nim";
@@ -2550,7 +2550,7 @@ function addInt_301990129(result_301990130, result_301990130_Idx, x_301990131) {
 function HEX24_369098760(x_369098761) {
   var result_369098762 = [[]];
 
-  var F = {procname: "dollars.$", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/dollars.nim", line: 0};
+  var F = {procname: "dollars.$", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/dollars.nim", line: 0};
   framePtr = F;
     F.line = 18;
     F.filename = "dollars.nim";
@@ -2644,7 +2644,7 @@ function rawWriteStackTrace_33556604() {
 function newSeq_33556919(len_33556921) {
   var result_33556922 = [];
 
-  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 635;
     F.filename = "system.nim";
@@ -2703,7 +2703,7 @@ function raiseDivByZero() {
 function slotsNeeded_1040187434(count_1040187435) {
   var result_1040187436 = 0;
 
-  var F = {procname: "tables.slotsNeeded", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "tables.slotsNeeded", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
     F.line = 39;
     F.filename = "hashcommon.nim";
@@ -2717,7 +2717,7 @@ function slotsNeeded_1040187434(count_1040187435) {
 function initTable_1660944473(initialSize_1660944476) {
   var result_1660944477 = ({data: [], counter: 0});
 
-  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 165;
     F.filename = "tableimpl.nim";
@@ -2734,7 +2734,7 @@ function initTable_1660944473(initialSize_1660944476) {
 function newTable_1660944434(initialSize_1660944437) {
   var result_1660944443 = null;
 
-  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 828;
     F.filename = "tables.nim";
@@ -2750,7 +2750,7 @@ function newTable_1660944434(initialSize_1660944437) {
 function initTable_1660946011(initialSize_1660946014) {
   var result_1660946015 = ({data: [], counter: 0});
 
-  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 165;
     F.filename = "tableimpl.nim";
@@ -2767,7 +2767,7 @@ function initTable_1660946011(initialSize_1660946014) {
 function newTable_1660945972(initialSize_1660945975) {
   var result_1660945981 = null;
 
-  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 828;
     F.filename = "tables.nim";
@@ -2783,7 +2783,7 @@ function newTable_1660945972(initialSize_1660945975) {
 function initTable_1660947561(initialSize_1660947564) {
   var result_1660947565 = ({data: [], counter: 0});
 
-  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 165;
     F.filename = "tableimpl.nim";
@@ -2800,7 +2800,7 @@ function initTable_1660947561(initialSize_1660947564) {
 function newTable_1660947522(initialSize_1660947525) {
   var result_1660947531 = null;
 
-  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 828;
     F.filename = "tables.nim";
@@ -2825,7 +2825,7 @@ function hasJsBigInt_889192491() {
 function hiXorLoJs_1056964693(a_1056964694, b_1056964695) {
   var result_1056964696 = 0n;
 
-  var F = {procname: "hashes.hiXorLoJs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.hiXorLoJs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 140;
     F.filename = "hashes.nim";
@@ -2843,7 +2843,7 @@ function hiXorLoJs_1056964693(a_1056964694, b_1056964695) {
 function hashWangYi1_1056964801(x_1056964803) {
   var result_1056964804 = 0;
 
-  var F = {procname: "hashWangYi1.hashWangYi1", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashWangYi1.hashWangYi1", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     if (hasJsBigInt_889192491()) {
     F.line = 182;
@@ -2872,7 +2872,7 @@ function hashWangYi1_1056964801(x_1056964803) {
 function hash_1056964793(x_1056964795) {
   var result_1056964796 = 0;
 
-  var F = {procname: "hash.hash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hash.hash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 214;
     F.filename = "hashes.nim";
@@ -2886,7 +2886,7 @@ function hash_1056964793(x_1056964795) {
 function isFilled_1040187423(hcode_1040187424) {
   var result_1040187425 = false;
 
-  var F = {procname: "tables.isFilled", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "tables.isFilled", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
     F.line = 27;
     F.filename = "hashcommon.nim";
@@ -2900,7 +2900,7 @@ function isFilled_1040187423(hcode_1040187424) {
 function nextTry_1040187426(h_1040187427, maxHash_1040187428) {
   var result_1040187429 = 0;
 
-  var F = {procname: "tables.nextTry", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "tables.nextTry", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
     F.line = 30;
     F.filename = "hashcommon.nim";
@@ -2914,7 +2914,7 @@ function nextTry_1040187426(h_1040187427, maxHash_1040187428) {
 function rawGet_1660944709(t_1660944712, key_1660944713, hc_1660944714, hc_1660944714_Idx) {
   var result_1660944715 = 0;
 
-  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 59;
@@ -2957,7 +2957,7 @@ function rawGet_1660944709(t_1660944712, key_1660944713, hc_1660944714, hc_16609
 }
 
 function raiseKeyError_1660949554(key_1660949556) {
-  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 235;
     F.filename = "tables.nim";
@@ -2971,7 +2971,7 @@ function HEX5BHEX5D_1660949487(t_1660949490, key_1660949491) {
   var result_1660949492 = null;
   var result_1660949492_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 243;
     F.filename = "tables.nim";
@@ -2999,7 +2999,7 @@ function HEX5BHEX5D_1660949375(t_1660949378, key_1660949379) {
   var result_1660949380 = null;
   var result_1660949380_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 879;
     F.filename = "tables.nim";
@@ -3013,7 +3013,7 @@ function HEX5BHEX5D_1660949375(t_1660949378, key_1660949379) {
 function rawGet_1660946247(t_1660946250, key_1660946251, hc_1660946252, hc_1660946252_Idx) {
   var result_1660946253 = 0;
 
-  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 59;
@@ -3059,7 +3059,7 @@ function HEX5BHEX5D_1660949742(t_1660949745, key_1660949746) {
   var result_1660949747 = null;
   var result_1660949747_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 243;
     F.filename = "tables.nim";
@@ -3087,7 +3087,7 @@ function HEX5BHEX5D_1660949630(t_1660949633, key_1660949634) {
   var result_1660949635 = null;
   var result_1660949635_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 879;
     F.filename = "tables.nim";
@@ -3101,7 +3101,7 @@ function HEX5BHEX5D_1660949630(t_1660949633, key_1660949634) {
 function imul_1056964920(a_1056964921, b_1056964922) {
   var result_1056964923 = 0;
 
-  var F = {procname: "hashes.imul", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.imul", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 293;
     F.filename = "hashes.nim";
@@ -3125,7 +3125,7 @@ function imul_1056964920(a_1056964921, b_1056964922) {
 function rotl32_1056964941(x_1056964942, r_1056964943) {
   var result_1056964944 = 0;
 
-  var F = {procname: "hashes.rotl32", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.rotl32", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 304;
     F.filename = "hashes.nim";
@@ -3139,7 +3139,7 @@ function rotl32_1056964941(x_1056964942, r_1056964943) {
 function murmurHash_1056964953(x_1056964954) {
   var result_1056964955 = 0;
 
-  var F = {procname: "hashes.murmurHash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.murmurHash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 315;
@@ -3234,7 +3234,7 @@ function murmurHash_1056964953(x_1056964954) {
 function hash_1056965058(x_1056965059) {
   var result_1056965060 = 0;
 
-  var F = {procname: "hashes.hash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.hash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 389;
     F.filename = "hashes.nim";
@@ -3250,7 +3250,7 @@ function hash_1056965058(x_1056965059) {
 function rawGet_1660947797(t_1660947800, key_1660947801, hc_1660947802, hc_1660947802_Idx) {
   var result_1660947803 = 0;
 
-  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 59;
@@ -3293,7 +3293,7 @@ function rawGet_1660947797(t_1660947800, key_1660947801, hc_1660947802, hc_16609
 }
 
 function raiseKeyError_1660950060(key_1660950062) {
-  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 235;
     F.filename = "tables.nim";
@@ -3307,7 +3307,7 @@ function HEX5BHEX5D_1660949993(t_1660949996, key_1660949997) {
   var result_1660949998 = null;
   var result_1660949998_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 243;
     F.filename = "tables.nim";
@@ -3335,7 +3335,7 @@ function HEX5BHEX5D_1660949881(t_1660949884, key_1660949885) {
   var result_1660949886 = null;
   var result_1660949886_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 879;
     F.filename = "tables.nim";
@@ -3348,7 +3348,7 @@ function HEX5BHEX5D_1660949881(t_1660949884, key_1660949885) {
 var Temporary1;
 var Temporary2;
 var Temporary3;
-var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+var F = {procname: "module renderer", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
 framePtr = F;
 F.line = 105;
 F.filename = "renderer.nim";
@@ -3405,14 +3405,14 @@ F.line = 144;
 }
 
 framePtr = F.prev;
-var F = {procname: "module renderer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+var F = {procname: "module renderer", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function remember_2046821018(val_2046821020) {
   var result_2046821022 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -3422,7 +3422,7 @@ function remember_2046821018(val_2046821020) {
   return result_2046821022;
 
 }
-var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+var F = {procname: "module state", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
 framePtr = F;
 F.line = 38;
 F.filename = "state.nim";
@@ -3430,106 +3430,106 @@ var enableRouting_2046820360 = [true];
 F.line = 263;
 var languageSettings_2046821056 = [remember_2046821018({lang: [97,117,116,111]})];
 framePtr = F.prev;
-var F = {procname: "module state", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+var F = {procname: "module state", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osseps", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osseps.nim", line: 0};
+var F = {procname: "module osseps", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osseps.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osseps", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osseps.nim", line: 0};
+var F = {procname: "module osseps", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osseps.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module pathnorm", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/pathnorm.nim", line: 0};
+var F = {procname: "module pathnorm", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/pathnorm.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module pathnorm", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/pathnorm.nim", line: 0};
+var F = {procname: "module pathnorm", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/pathnorm.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oserrors", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/oserrors.nim", line: 0};
+var F = {procname: "module oserrors", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/oserrors.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oserrors", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/oserrors.nim", line: 0};
+var F = {procname: "module oserrors", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/oserrors.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oscommon", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/oscommon.nim", line: 0};
+var F = {procname: "module oscommon", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/oscommon.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module oscommon", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/oscommon.nim", line: 0};
+var F = {procname: "module oscommon", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/oscommon.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module ospaths2", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/ospaths2.nim", line: 0};
+var F = {procname: "module ospaths2", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/ospaths2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module ospaths2", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/ospaths2.nim", line: 0};
+var F = {procname: "module ospaths2", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/ospaths2.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module ossymlinks", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/ossymlinks.nim", line: 0};
+var F = {procname: "module ossymlinks", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/ossymlinks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module ossymlinks", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/ossymlinks.nim", line: 0};
+var F = {procname: "module ossymlinks", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/ossymlinks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osfiles", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osfiles.nim", line: 0};
+var F = {procname: "module osfiles", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osfiles.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osfiles", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osfiles.nim", line: 0};
+var F = {procname: "module osfiles", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osfiles.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osdirs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osdirs.nim", line: 0};
+var F = {procname: "module osdirs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osdirs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osdirs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osdirs.nim", line: 0};
+var F = {procname: "module osdirs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osdirs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module envvars", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/envvars.nim", line: 0};
+var F = {procname: "module envvars", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/envvars.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module envvars", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/envvars.nim", line: 0};
+var F = {procname: "module envvars", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/envvars.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osappdirs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osappdirs.nim", line: 0};
+var F = {procname: "module osappdirs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osappdirs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module osappdirs", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/osappdirs.nim", line: 0};
+var F = {procname: "module osappdirs", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/osappdirs.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module cmdline", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/cmdline.nim", line: 0};
+var F = {procname: "module cmdline", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/cmdline.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module cmdline", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/cmdline.nim", line: 0};
+var F = {procname: "module cmdline", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/cmdline.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module os", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/os.nim", line: 0};
+var F = {procname: "module os", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/os.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module os", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/os.nim", line: 0};
+var F = {procname: "module os", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/os.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+var F = {procname: "module components", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module components", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+var F = {procname: "module components", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module enumerate", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/enumerate.nim", line: 0};
+var F = {procname: "module enumerate", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/enumerate.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module enumerate", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/enumerate.nim", line: 0};
+var F = {procname: "module enumerate", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/enumerate.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
+var F = {procname: "module lexer", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module lexer", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
+var F = {procname: "module lexer", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/lexer.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
+var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
+var F = {procname: "module sharedhelper", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/sharedhelper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
 framePtr = F;
 F.line = 74;
 F.filename = "parser.nim";
@@ -3539,22 +3539,22 @@ F.line = 77;
 F.line = 78;
 F.line = 79;
 framePtr = F.prev;
-var F = {procname: "module parser", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
+var F = {procname: "module parser", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/parser.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module unidecode", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unidecode/unidecode.nim", line: 0};
+var F = {procname: "module unidecode", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unidecode/unidecode.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module unidecode", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unidecode/unidecode.nim", line: 0};
+var F = {procname: "module unidecode", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unidecode/unidecode.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mimetypes", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/mimetypes.nim", line: 0};
+var F = {procname: "module mimetypes", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/mimetypes.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mimetypes", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/mimetypes.nim", line: 0};
+var F = {procname: "module mimetypes", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/mimetypes.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base64", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/base64.nim", line: 0};
+var F = {procname: "module base64", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/base64.nim", line: 0};
 framePtr = F;
 F.line = 70;
 F.filename = "base64.nim";
@@ -3562,55 +3562,55 @@ var cb64_2466250756 = new Uint8Array([65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75
 F.line = 71;
 var cb64safe_2466250757 = new Uint8Array([65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 45, 95]);
 framePtr = F.prev;
-var F = {procname: "module base64", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/base64.nim", line: 0};
+var F = {procname: "module base64", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/base64.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module uri", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/uri.nim", line: 0};
+var F = {procname: "module uri", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/uri.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module uri", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/uri.nim", line: 0};
+var F = {procname: "module uri", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/uri.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
+var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
+var F = {procname: "module nimjautils", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja/nimjautils.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
+var F = {procname: "module nimja", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module nimja", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
+var F = {procname: "module nimja", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/nimja-0.8.7-a15b5860fb1926e682faf004ec1efc1d655d9b09/nimja.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/tmpl_engine/engine.nim", line: 0};
+var F = {procname: "module engine", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/tmpl_engine/engine.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module engine", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/tmpl_engine/engine.nim", line: 0};
+var F = {procname: "module engine", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/tmpl_engine/engine.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx.nim", line: 0};
+var F = {procname: "module happyx", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module happyx", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx.nim", line: 0};
+var F = {procname: "module happyx", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module random", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+var F = {procname: "module random", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
 framePtr = F;
 F.line = 109;
 F.filename = "random.nim";
 var state_2483027982 = [{a0: 1773455756, a1: 4275166512}];
 framePtr = F.prev;
-var F = {procname: "module random", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+var F = {procname: "module random", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+var F = {procname: "module eMathjax", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+var F = {procname: "module fonts", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
 framePtr = F;
 F.line = 5;
 F.filename = "fonts.nim";
@@ -3624,32 +3624,32 @@ var mathImports_2533359656 = [makeNimstrLit("@import url(\'https://fonts.googlea
 F.line = 30;
 var monoImports_2533359665 = [makeNimstrLit("@import url(\'https://fonts.googleapis.com/css2?family=Inconsolata&family=Shantell+Sans&display=swap\');")];
 framePtr = F.prev;
-var F = {procname: "module fonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+var F = {procname: "module fonts", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/images.nim", line: 0};
+var F = {procname: "module images", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/images.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module images", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/images.nim", line: 0};
+var F = {procname: "module images", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/images.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module layout", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+var F = {procname: "module layout", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+var F = {procname: "module markup", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module markup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+var F = {procname: "module markup", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function newProbCounter_2600468539() {
   var result_2600468540 = null;
 
-  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.newProbCounter", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 50;
     F.filename = "numbering.nim";
@@ -3659,7 +3659,7 @@ function newProbCounter_2600468539() {
   return result_2600468540;
 
 }
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 F.line = 4;
 F.filename = "numbering.nim";
@@ -3717,44 +3717,44 @@ var eCount_2600468577 = [newProbCounter_2600468539()];
 F.line = 54;
 var sCount_2600468578 = [newProbCounter_2600468539()];
 framePtr = F.prev;
-var F = {procname: "module numbering", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+var F = {procname: "module numbering", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/paper.nim", line: 0};
+var F = {procname: "module paper", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/paper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module paper", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/paper.nim", line: 0};
+var F = {procname: "module paper", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/paper.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+var F = {procname: "module videos", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module videos", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+var F = {procname: "module videos", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base23", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+var F = {procname: "module base23", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module base23", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+var F = {procname: "module base23", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module Tasks", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/Geometry/lesson1_4_1/Tasks.nim", line: 0};
+var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson1_4_1/Tasks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module Tasks", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/Geometry/lesson1_4_1/Tasks.nim", line: 0};
+var F = {procname: "module Tasks", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson1_4_1/Tasks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/mBlocks.nim", line: 0};
+var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/mBlocks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
-var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/mBlocks.nim", line: 0};
+var F = {procname: "module mBlocks", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/mBlocks.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function toFloat_33556008(i_33556009) {
   var result_33556010 = 0.0;
 
-  var F = {procname: "system.toFloat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "system.toFloat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 1292;
     F.filename = "system.nim";
@@ -3768,7 +3768,7 @@ function toFloat_33556008(i_33556009) {
 function HEX2F_33556020(x_33556021, y_33556022) {
   var result_33556023 = 0.0;
 
-  var F = {procname: "system./", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "system./", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 1340;
     F.filename = "system.nim";
@@ -3782,7 +3782,7 @@ function HEX2F_33556020(x_33556021, y_33556022) {
 function epochTime_1728057567() {
   var result_1728057568 = 0.0;
 
-  var F = {procname: "times.epochTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.epochTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 2808;
     F.filename = "times.nim";
@@ -3796,7 +3796,7 @@ function epochTime_1728057567() {
 function rotl_2483027991(x_2483027992, k_2483027993) {
   var result_2483027994 = 0;
 
-  var F = {procname: "random.rotl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.rotl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 134;
     F.filename = "random.nim";
@@ -3810,7 +3810,7 @@ function rotl_2483027991(x_2483027992, k_2483027993) {
 function next_2483028003(r_2483028004) {
   var result_2483028005 = 0n;
 
-  var F = {procname: "random.next", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.next", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 152;
     F.filename = "random.nim";
@@ -3832,7 +3832,7 @@ function next_2483028003(r_2483028004) {
 }
 
 function skipRandomNumbers_2483028012(s_2483028013) {
-  var F = {procname: "random.skipRandomNumbers", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.skipRandomNumbers", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 216;
     F.filename = "random.nim";
@@ -3900,7 +3900,7 @@ function initRand_2483028217(seed_2483028218) {
 
   var result_2483028219 = [({a0: 0, a1: 0})];
 
-  var F = {procname: "random.initRand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.initRand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 601;
     F.filename = "random.nim";
@@ -3929,7 +3929,7 @@ function initRand_2483028217(seed_2483028218) {
 function initRand_2483028259() {
   var result_2483028260 = ({a0: 0, a1: 0});
 
-  var F = {procname: "random.initRand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.initRand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 694;
     F.filename = "random.nim";
@@ -3943,7 +3943,7 @@ function initRand_2483028259() {
 }
 
 function randomize_2483028266() {
-  var F = {procname: "random.randomize", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "random.randomize", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 748;
     F.filename = "random.nim";
@@ -3956,7 +3956,7 @@ function randomize_2483028266() {
 function registerApp_1660950123(appId_1660950124) {
   var result_1660950125 = null;
 
-  var F = {procname: "renderer.registerApp", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.registerApp", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 204;
     F.filename = "renderer.nim";
@@ -3972,7 +3972,7 @@ function registerApp_1660950123(appId_1660950124) {
 function nsuStartsWith(s_704644526, prefix_704644527) {
   var result_704644528 = false;
 
-  var F = {procname: "strutils.startsWith", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.startsWith", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 56;
@@ -4014,7 +4014,7 @@ function nsuStartsWith(s_704644526, prefix_704644527) {
 function HEX5BHEX5D_704644379(s_704644382, x_704644383) {
   var result_704644384 = [];
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/indices.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/indices.nim", line: 0};
   framePtr = F;
     F.line = 83;
     F.filename = "indices.nim";
@@ -4053,7 +4053,7 @@ function HEX5BHEX5D_704644379(s_704644382, x_704644383) {
 function HEX2EHEX2E_939524200(a_939524203, b_939524204) {
   var result_939524207 = ({a: 0, b: 0});
 
-  var F = {procname: ".....", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: ".....", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 416;
     F.filename = "system.nim";
@@ -4067,7 +4067,7 @@ function HEX2EHEX2E_939524200(a_939524203, b_939524204) {
 function newSeq_1023410510(len_1023410512) {
   var result_1023410513 = [];
 
-  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 635;
     F.filename = "system.nim";
@@ -4080,7 +4080,7 @@ function newSeq_1023410510(len_1023410512) {
 function nstnewStringTable(mode_1023410504) {
   var result_1023410505 = null;
 
-  var F = {procname: "strtabs.newStringTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.newStringTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 264;
     F.filename = "strtabs.nim";
@@ -4094,7 +4094,7 @@ function nstnewStringTable(mode_1023410504) {
 function hash_1056965055(x_1056965056) {
   var result_1056965057 = 0;
 
-  var F = {procname: "hashes.hash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.hash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 386;
     F.filename = "hashes.nim";
@@ -4108,7 +4108,7 @@ function hash_1056965055(x_1056965056) {
 function HEX21HEX26_1056964611(h_1056964612, val_1056964613) {
   var result_1056964614 = 0;
 
-  var F = {procname: "hashes.!&", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.!&", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 83;
     F.filename = "hashes.nim";
@@ -4132,7 +4132,7 @@ function HEX21HEX26_1056964611(h_1056964612, val_1056964613) {
 function HEX21HEX24_1056964626(h_1056964627) {
   var result_1056964628 = 0;
 
-  var F = {procname: "hashes.!$", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.!$", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 94;
     F.filename = "hashes.nim";
@@ -4154,7 +4154,7 @@ function HEX21HEX24_1056964626(h_1056964627) {
 function hashIgnoreCase_1056965134(x_1056965135) {
   var result_1056965136 = 0;
 
-  var F = {procname: "hashes.hashIgnoreCase", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.hashIgnoreCase", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 476;
     F.filename = "hashes.nim";
@@ -4205,7 +4205,7 @@ function hashIgnoreCase_1056965134(x_1056965135) {
 function hashIgnoreStyle_1056965067(x_1056965068) {
   var result_1056965069 = 0;
 
-  var F = {procname: "hashes.hashIgnoreStyle", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
+  var F = {procname: "hashes.hashIgnoreStyle", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/hashes.nim", line: 0};
   framePtr = F;
     F.line = 426;
     F.filename = "hashes.nim";
@@ -4249,7 +4249,7 @@ function hashIgnoreStyle_1056965067(x_1056965068) {
 function myhash_1023410313(t_1023410314, key_1023410315) {
   var result_1023410316 = 0;
 
-  var F = {procname: "strtabs.myhash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.myhash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 118;
     F.filename = "strtabs.nim";
@@ -4299,7 +4299,7 @@ function cmp_33555881(x_33555882, y_33555883) {
 function toLowerAscii_973078529(c_973078530) {
   var result_973078531 = 0;
 
-  var F = {procname: "strimpl.toLowerAscii", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
+  var F = {procname: "strimpl.toLowerAscii", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/private/strimpl.nim", line: 0};
   framePtr = F;
     if ((ConstSet4[c_973078530] != undefined)) {
     F.line = 3;
@@ -4320,7 +4320,7 @@ function toLowerAscii_973078529(c_973078530) {
 function nsuCmpIgnoreCase(a_704643259, b_704643260) {
   var result_704643261 = 0;
 
-  var F = {procname: "strutils.cmpIgnoreCase", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.cmpIgnoreCase", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 42;
@@ -4431,7 +4431,7 @@ function nsuCmpIgnoreStyle(a_704643284, b_704643285) {
 function myCmp_1023410317(t_1023410318, a_1023410319, b_1023410320) {
   var result_1023410321 = false;
 
-  var F = {procname: "strtabs.myCmp", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.myCmp", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 124;
     F.filename = "strtabs.nim";
@@ -4458,7 +4458,7 @@ function myCmp_1023410317(t_1023410318, a_1023410319, b_1023410320) {
 function nextTry_1023410331(h_1023410332, maxHash_1023410333) {
   var result_1023410334 = 0;
 
-  var F = {procname: "strtabs.nextTry", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.nextTry", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 134;
     F.filename = "strtabs.nim";
@@ -4472,7 +4472,7 @@ function nextTry_1023410331(h_1023410332, maxHash_1023410333) {
 function rawGet_1023410335(t_1023410336, key_1023410337) {
   var result_1023410338 = 0;
 
-  var F = {procname: "strtabs.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.rawGet", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 137;
@@ -4502,7 +4502,7 @@ function rawGet_1023410335(t_1023410336, key_1023410337) {
 }
 
 function sysFatal_268435501(message_268435504) {
-  var F = {procname: "sysFatal.sysFatal", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/fatal.nim", line: 0};
+  var F = {procname: "sysFatal.sysFatal", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/fatal.nim", line: 0};
   framePtr = F;
     F.line = 53;
     F.filename = "fatal.nim";
@@ -4513,7 +4513,7 @@ function sysFatal_268435501(message_268435504) {
 }
 
 function raiseAssert_268435499(msg_268435500) {
-  var F = {procname: "assertions.raiseAssert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/assertions.nim", line: 0};
+  var F = {procname: "assertions.raiseAssert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/assertions.nim", line: 0};
   framePtr = F;
     F.line = 36;
     F.filename = "assertions.nim";
@@ -4524,7 +4524,7 @@ function raiseAssert_268435499(msg_268435500) {
 }
 
 function failedAssertImpl_268435541(msg_268435542) {
-  var F = {procname: "assertions.failedAssertImpl", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/assertions.nim", line: 0};
+  var F = {procname: "assertions.failedAssertImpl", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/assertions.nim", line: 0};
   framePtr = F;
     F.line = 41;
     F.filename = "assertions.nim";
@@ -4537,12 +4537,12 @@ function failedAssertImpl_268435541(msg_268435542) {
 function mustRehash_1023410322(length_1023410323, counter_1023410324) {
   var result_1023410325 = false;
 
-  var F = {procname: "strtabs.mustRehash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.mustRehash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     if (!((counter_1023410324 < length_1023410323))) {
     F.line = 130;
     F.filename = "strtabs.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim(130, 9) `length > counter` "));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim(130, 9) `length > counter` "));
     }
     
     F.line = 131;
@@ -4554,7 +4554,7 @@ function mustRehash_1023410322(length_1023410323, counter_1023410324) {
 }
 
 function rawInsert_1023410426(t_1023410427, data_1023410428, data_1023410428_Idx, key_1023410429, val_1023410430) {
-  var F = {procname: "strtabs.rawInsert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.rawInsert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 223;
     F.filename = "strtabs.nim";
@@ -4582,7 +4582,7 @@ function enlarge_1023410438(t_1023410439) {
             var Temporary4;
             var Temporary5;
 
-  var F = {procname: "strtabs.enlarge", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.enlarge", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 231;
     F.filename = "strtabs.nim";
@@ -4630,7 +4630,7 @@ function enlarge_1023410438(t_1023410439) {
 }
 
 function nstPut(t_1023410491, key_1023410492, val_1023410493) {
-  var F = {procname: "strtabs.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.[]=", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 249;
     F.filename = "strtabs.nim";
@@ -4659,7 +4659,7 @@ function nstPut(t_1023410491, key_1023410492, val_1023410493) {
 function nstnewStringTableWithTableConstr(keyValuePairs_1023410568, mode_1023410569) {
   var result_1023410570 = null;
 
-  var F = {procname: "strtabs.newStringTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.newStringTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 294;
     F.filename = "strtabs.nim";
@@ -4698,7 +4698,7 @@ function nstnewStringTableWithTableConstr(keyValuePairs_1023410568, mode_1023410
 function substr_33558079(s_33558080, first_33558081, last_33558082) {
   var result_33558083 = [];
 
-  var F = {procname: "system.substr", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "system.substr", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 2658;
     F.filename = "system.nim";
@@ -4743,7 +4743,7 @@ function substr_33558079(s_33558080, first_33558081, last_33558082) {
 function nsuSplitChar(s_704643617, sep_704643618, maxsplit_704643619) {
   var result_704643620 = [];
 
-  var F = {procname: "strutils.split", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.split", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 417;
     F.filename = "strutils.nim";
@@ -4800,7 +4800,7 @@ function nsuSplitChar(s_704643617, sep_704643618, maxsplit_704643619) {
 function nsuEndsWith(s_704644546, suffix_704644547) {
   var result_704644548 = false;
 
-  var F = {procname: "strutils.endsWith", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.endsWith", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 65;
@@ -4844,7 +4844,7 @@ function parseQuery_1006632965(q_1006632966) {
 
   var result_1006632967 = null;
 
-  var F = {procname: "queries.parseQuery", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/queries.nim", line: 0};
+  var F = {procname: "queries.parseQuery", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/queries.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "queries.nim";
@@ -4917,7 +4917,7 @@ function parseQuery_1006632965(q_1006632966) {
 function initTable_1006633051(initialSize_1006633054) {
   var result_1006633055 = ({data: [], counter: 0});
 
-  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "initTable.initTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 165;
     F.filename = "tableimpl.nim";
@@ -4934,7 +4934,7 @@ function initTable_1006633051(initialSize_1006633054) {
 function newTable_1006633017(initialSize_1006633020) {
   var result_1006633021 = null;
 
-  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "newTable.newTable", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 828;
     F.filename = "tables.nim";
@@ -4950,7 +4950,7 @@ function newTable_1006633017(initialSize_1006633020) {
 function rawGet_1006633287(t_1006633290, key_1006633291, hc_1006633292, hc_1006633292_Idx) {
   var result_1006633293 = 0;
 
-  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGet.rawGet", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 59;
@@ -4995,7 +4995,7 @@ function rawGet_1006633287(t_1006633290, key_1006633291, hc_1006633292, hc_10066
 function hasKey_1006634713(t_1006634716, key_1006634717) {
   var result_1006634718 = false;
 
-  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 372;
     F.filename = "tables.nim";
@@ -5011,7 +5011,7 @@ function hasKey_1006634713(t_1006634716, key_1006634717) {
 function hasKey_1006634614(t_1006634617, key_1006634618) {
   var result_1006634619 = false;
 
-  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 913;
     F.filename = "tables.nim";
@@ -5023,7 +5023,7 @@ function hasKey_1006634614(t_1006634617, key_1006634618) {
 }
 
 function raiseKeyError_1006634958(key_1006634960) {
-  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "raiseKeyError.raiseKeyError", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 235;
     F.filename = "tables.nim";
@@ -5037,7 +5037,7 @@ function HEX5BHEX5D_1006634891(t_1006634894, key_1006634895) {
   var result_1006634896 = null;
   var result_1006634896_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 243;
     F.filename = "tables.nim";
@@ -5065,7 +5065,7 @@ function HEX5BHEX5D_1006634779(t_1006634782, key_1006634783) {
   var result_1006634784 = null;
   var result_1006634784_Idx = 0;
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 879;
     F.filename = "tables.nim";
@@ -5079,12 +5079,12 @@ function HEX5BHEX5D_1006634779(t_1006634782, key_1006634783) {
 function mustRehash_1006633629(t_1006633631) {
   var result_1006633632 = false;
 
-  var F = {procname: "mustRehash.mustRehash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "mustRehash.mustRehash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
     if (!((t_1006633631.counter < (t_1006633631.data).length))) {
     F.line = 34;
     F.filename = "hashcommon.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim(34, 9) `\x0At.counter < t.dataLen` "));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim(34, 9) `\x0At.counter < t.dataLen` "));
     }
     
     F.line = 35;
@@ -5096,7 +5096,7 @@ function mustRehash_1006633629(t_1006633631) {
 }
 
 function rawInsert_1006634078(t_1006634082, data_1006634083, data_1006634083_Idx, key_1006634084, val_1006634085, hc_1006634086, h_1006634087) {
-  var F = {procname: "rawInsert.rawInsert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tableimpl.nim", line: 0};
+  var F = {procname: "rawInsert.rawInsert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tableimpl.nim", line: 0};
   framePtr = F;
     F.line = 25;
     F.filename = "tableimpl.nim";
@@ -5111,7 +5111,7 @@ function rawInsert_1006634078(t_1006634082, data_1006634083, data_1006634083_Idx
 }
 
 function enlarge_1006633784(t_1006633787) {
-  var F = {procname: "enlarge.enlarge", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "enlarge.enlarge", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 250;
     F.filename = "tables.nim";
@@ -5168,7 +5168,7 @@ function enlarge_1006633784(t_1006633787) {
 function rawGetKnownHC_1006634247(t_1006634250, key_1006634251, hc_1006634252) {
   var result_1006634253 = 0;
 
-  var F = {procname: "rawGetKnownHC.rawGetKnownHC", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGetKnownHC.rawGetKnownHC", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (((t_1006634250.data).length == 0)) {
@@ -5204,7 +5204,7 @@ function rawGetKnownHC_1006634247(t_1006634250, key_1006634251, hc_1006634252) {
 }
 
 function HEX5BHEX5DHEX3D_1006633226(t_1006633229, key_1006633230, val_1006633231) {
-  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     if (((t_1006633229.data).length == 0)) {
     F.line = 165;
@@ -5253,7 +5253,7 @@ function HEX5BHEX5DHEX3D_1006633226(t_1006633229, key_1006633230, val_1006633231
 }
 
 function HEX5BHEX5DHEX3D_1006635026(t_1006635029, key_1006635030, val_1006635031) {
-  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 895;
     F.filename = "tables.nim";
@@ -5269,7 +5269,7 @@ function parseQueryArrays_1006633007(query_1006633008) {
 
   var result_1006633016 = null;
 
-  var F = {procname: "queries.parseQueryArrays", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/core/queries.nim", line: 0};
+  var F = {procname: "queries.parseQueryArrays", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/core/queries.nim", line: 0};
   framePtr = F;
     F.line = 39;
     F.filename = "queries.nim";
@@ -5352,7 +5352,7 @@ function parseQueryArrays_1006633007(query_1006633008) {
 function nsuStrip(s_704645594, leading_704645595, trailing_704645596, chars_704645597) {
   var result_704645598 = [];
 
-  var F = {procname: "strutils.strip", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.strip", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 2917;
     F.filename = "strutils.nim";
@@ -5392,7 +5392,7 @@ function nsuStrip(s_704645594, leading_704645595, trailing_704645596, chars_7046
 function initTag_1795162265(name_1795162266, children_1795162271, onlyChildren_1795162272) {
   var result_1795162273 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 106;
     F.filename = "tag.nim";
@@ -5428,7 +5428,7 @@ function initTag_1795162265(name_1795162266, children_1795162271, onlyChildren_1
             i_520096132 = addInt(i_520096132, 1);
             if (!(((children_1795162271).length == L_520096133))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -5443,7 +5443,7 @@ function initTag_1795162265(name_1795162266, children_1795162271, onlyChildren_1
 function remember_2533359703(val_2533359705) {
   var result_2533359706 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -5457,7 +5457,7 @@ function remember_2533359703(val_2533359705) {
 function initPersonFonts_2533359695(uniqCompId_2533359696, teacher_2533359697, student_2533359698, ell_2533359699, math_2533359700, mono_2533359701) {
     
 function HEX3Aanonymous_2533359737(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5465,7 +5465,7 @@ function HEX3Aanonymous_2533359737(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359740(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5473,7 +5473,7 @@ function HEX3Aanonymous_2533359740(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359741(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5481,7 +5481,7 @@ function HEX3Aanonymous_2533359741(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359742(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5489,7 +5489,7 @@ function HEX3Aanonymous_2533359742(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359743(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5497,7 +5497,7 @@ function HEX3Aanonymous_2533359743(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359744(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5505,7 +5505,7 @@ function HEX3Aanonymous_2533359744(self_2533359738, ev_2533359739) {
     }
     
 function HEX3Aanonymous_2533359745(self_2533359738, ev_2533359739) {
-      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
+      var F = {procname: "initPersonFonts.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/fonts.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5514,7 +5514,7 @@ function HEX3Aanonymous_2533359745(self_2533359738, ev_2533359739) {
 
   var result_2533359702 = null;
 
-  var F = {procname: "fonts.initPersonFonts", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.initPersonFonts", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 40;
@@ -5550,7 +5550,7 @@ function HEX3Aanonymous_2533359745(self_2533359738, ev_2533359739) {
 function hasKey_1660950301(t_1660950304, key_1660950305) {
   var result_1660950306 = false;
 
-  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 372;
     F.filename = "tables.nim";
@@ -5566,7 +5566,7 @@ function hasKey_1660950301(t_1660950304, key_1660950305) {
 function hasKey_1660950202(t_1660950205, key_1660950206) {
   var result_1660950207 = false;
 
-  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "hasKey.hasKey", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 913;
     F.filename = "tables.nim";
@@ -5580,12 +5580,12 @@ function hasKey_1660950202(t_1660950205, key_1660950206) {
 function mustRehash_1660948139(t_1660948141) {
   var result_1660948142 = false;
 
-  var F = {procname: "mustRehash.mustRehash", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "mustRehash.mustRehash", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
     if (!((t_1660948141.counter < (t_1660948141.data).length))) {
     F.line = 34;
     F.filename = "hashcommon.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim(34, 9) `\x0At.counter < t.dataLen` "));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim(34, 9) `\x0At.counter < t.dataLen` "));
     }
     
     F.line = 35;
@@ -5597,7 +5597,7 @@ function mustRehash_1660948139(t_1660948141) {
 }
 
 function rawInsert_1660948588(t_1660948592, data_1660948593, data_1660948593_Idx, key_1660948594, val_1660948595, hc_1660948596, h_1660948597) {
-  var F = {procname: "rawInsert.rawInsert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tableimpl.nim", line: 0};
+  var F = {procname: "rawInsert.rawInsert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tableimpl.nim", line: 0};
   framePtr = F;
     F.line = 25;
     F.filename = "tableimpl.nim";
@@ -5612,7 +5612,7 @@ function rawInsert_1660948588(t_1660948592, data_1660948593, data_1660948593_Idx
 }
 
 function enlarge_1660948294(t_1660948297) {
-  var F = {procname: "enlarge.enlarge", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "enlarge.enlarge", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 250;
     F.filename = "tables.nim";
@@ -5669,7 +5669,7 @@ function enlarge_1660948294(t_1660948297) {
 function rawGetKnownHC_1660948773(t_1660948776, key_1660948777, hc_1660948778) {
   var result_1660948779 = 0;
 
-  var F = {procname: "rawGetKnownHC.rawGetKnownHC", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
+  var F = {procname: "rawGetKnownHC.rawGetKnownHC", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/hashcommon.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (((t_1660948776.data).length == 0)) {
@@ -5705,7 +5705,7 @@ function rawGetKnownHC_1660948773(t_1660948776, key_1660948777, hc_1660948778) {
 }
 
 function HEX5BHEX5DHEX3D_1660947736(t_1660947739, key_1660947740, val_1660947741) {
-  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     if (((t_1660947739.data).length == 0)) {
     F.line = 165;
@@ -5754,7 +5754,7 @@ function HEX5BHEX5DHEX3D_1660947736(t_1660947739, key_1660947740, val_1660947741
 }
 
 function HEX5BHEX5DHEX3D_1660950412(t_1660950415, key_1660950416, val_1660950417) {
-  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
+  var F = {procname: "[]=.[]=", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/collections/tables.nim", line: 0};
   framePtr = F;
     F.line = 895;
     F.filename = "tables.nim";
@@ -5769,7 +5769,7 @@ function registerComponent_1660950158(name_1660950159, component_1660950160) {
 
   var result_1660950161 = null;
 
-  var F = {procname: "renderer.registerComponent", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.registerComponent", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 217;
@@ -5791,7 +5791,7 @@ function registerComponent_1660950158(name_1660950159, component_1660950160) {
 }
 
 function addArgIter_1795162481(self_1795162482, arg_1795162483) {
-  var F = {procname: "tag.addArgIter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.addArgIter", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     if (((self_1795162482.args).length == 0)) {
     F.line = 258;
@@ -5822,7 +5822,7 @@ function addArgIter_1795162481(self_1795162482, arg_1795162483) {
             i_520096142 = addInt(i_520096142, 1);
             if (!(((self_1795162482.children).length == L_520096143))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -5836,7 +5836,7 @@ function addArgIter_1795162481(self_1795162482, arg_1795162483) {
 function initMathJax_2516582532(uniqCompId_2516582533) {
     
 function HEX3Aanonymous_2516582536(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5844,7 +5844,7 @@ function HEX3Aanonymous_2516582536(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582539(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5852,7 +5852,7 @@ function HEX3Aanonymous_2516582539(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582540(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5860,7 +5860,7 @@ function HEX3Aanonymous_2516582540(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582541(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5868,7 +5868,7 @@ function HEX3Aanonymous_2516582541(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582542(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5876,7 +5876,7 @@ function HEX3Aanonymous_2516582542(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582543(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5884,7 +5884,7 @@ function HEX3Aanonymous_2516582543(self_2516582537, ev_2516582538) {
     }
     
 function HEX3Aanonymous_2516582544(self_2516582537, ev_2516582538) {
-      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
+      var F = {procname: "initMathJax.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/eMathjax.nim", line: 0};
       framePtr = F;
         F.line = 6;
         F.filename = "eMathjax.nim";
@@ -5898,7 +5898,7 @@ function HEX3Aanonymous_2516582544(self_2516582537, ev_2516582538) {
 
   var result_2516582534 = null;
 
-  var F = {procname: "eMathjax.initMathJax", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.initMathJax", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 5;
@@ -5934,7 +5934,7 @@ function HEX3Aanonymous_2516582544(self_2516582537, ev_2516582538) {
 function newSeq_2533360078(len_2533360080) {
   var result_2533360081 = [];
 
-  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 635;
     F.filename = "system.nim";
@@ -5947,7 +5947,7 @@ function newSeq_2533360078(len_2533360080) {
 function remember_2550136852(val_2550136854) {
   var result_2550136855 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -5961,7 +5961,7 @@ function remember_2550136852(val_2550136854) {
 function initPages_2566914059(uniqCompId_2566914060, n_2566914061, style_2566914062, class_2566914063) {
     
 function HEX3Aanonymous_2566914075(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5969,7 +5969,7 @@ function HEX3Aanonymous_2566914075(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914078(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5977,7 +5977,7 @@ function HEX3Aanonymous_2566914078(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914079(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5985,7 +5985,7 @@ function HEX3Aanonymous_2566914079(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914080(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -5993,7 +5993,7 @@ function HEX3Aanonymous_2566914080(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914081(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6001,7 +6001,7 @@ function HEX3Aanonymous_2566914081(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914082(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6009,7 +6009,7 @@ function HEX3Aanonymous_2566914082(self_2566914076, ev_2566914077) {
     }
     
 function HEX3Aanonymous_2566914083(self_2566914076, ev_2566914077) {
-      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initPages.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6018,7 +6018,7 @@ function HEX3Aanonymous_2566914083(self_2566914076, ev_2566914077) {
 
   var result_2566914064 = null;
 
-  var F = {procname: "layout.initPages", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initPages", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 6;
@@ -6054,7 +6054,7 @@ function HEX3Aanonymous_2566914083(self_2566914076, ev_2566914077) {
 function remember_2566914967(val_2566914969) {
   var result_2566914970 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -6068,7 +6068,7 @@ function remember_2566914967(val_2566914969) {
 function initNamePrompt_2650800137(uniqCompId_2650800138, prompt_2650800139) {
     
 function HEX3Aanonymous_2650800145(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6076,7 +6076,7 @@ function HEX3Aanonymous_2650800145(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800148(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6084,7 +6084,7 @@ function HEX3Aanonymous_2650800148(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800149(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6092,7 +6092,7 @@ function HEX3Aanonymous_2650800149(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800150(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6100,7 +6100,7 @@ function HEX3Aanonymous_2650800150(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800151(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6108,7 +6108,7 @@ function HEX3Aanonymous_2650800151(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800152(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6116,7 +6116,7 @@ function HEX3Aanonymous_2650800152(self_2650800146, ev_2650800147) {
     }
     
 function HEX3Aanonymous_2650800153(self_2650800146, ev_2650800147) {
-      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initNamePrompt.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6125,7 +6125,7 @@ function HEX3Aanonymous_2650800153(self_2650800146, ev_2650800147) {
 
   var result_2650800140 = null;
 
-  var F = {procname: "base23.initNamePrompt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.initNamePrompt", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 6;
@@ -6161,7 +6161,7 @@ function HEX3Aanonymous_2650800153(self_2650800146, ev_2650800147) {
 function initWorksheetHeader_2650800500(uniqCompId_2650800501, title_2650800502) {
     
 function HEX3Aanonymous_2650800508(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6169,7 +6169,7 @@ function HEX3Aanonymous_2650800508(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800511(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6177,7 +6177,7 @@ function HEX3Aanonymous_2650800511(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800512(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6185,7 +6185,7 @@ function HEX3Aanonymous_2650800512(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800513(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6193,7 +6193,7 @@ function HEX3Aanonymous_2650800513(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800514(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6201,7 +6201,7 @@ function HEX3Aanonymous_2650800514(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800515(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6209,7 +6209,7 @@ function HEX3Aanonymous_2650800515(self_2650800509, ev_2650800510) {
     }
     
 function HEX3Aanonymous_2650800516(self_2650800509, ev_2650800510) {
-      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initWorksheetHeader.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6218,7 +6218,7 @@ function HEX3Aanonymous_2650800516(self_2650800509, ev_2650800510) {
 
   var result_2650800503 = null;
 
-  var F = {procname: "base23.initWorksheetHeader", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.initWorksheetHeader", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 13;
@@ -6254,7 +6254,7 @@ function HEX3Aanonymous_2650800516(self_2650800509, ev_2650800510) {
 function initTag_1795162323(name_1795162324, isText_1795162325, children_1795162330, onlyChildren_1795162331) {
   var result_1795162332 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 146;
     F.filename = "tag.nim";
@@ -6290,7 +6290,7 @@ function initTag_1795162323(name_1795162324, isText_1795162325, children_1795162
             i_520096147 = addInt(i_520096147, 1);
             if (!(((children_1795162330).length == L_520096148))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -6305,7 +6305,7 @@ function initTag_1795162323(name_1795162324, isText_1795162325, children_1795162
 function initTaskDesc_2650801130(uniqCompId_2650801131) {
     
 function HEX3Aanonymous_2650801134(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6313,7 +6313,7 @@ function HEX3Aanonymous_2650801134(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801137(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6321,7 +6321,7 @@ function HEX3Aanonymous_2650801137(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801138(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6329,7 +6329,7 @@ function HEX3Aanonymous_2650801138(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801139(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6337,7 +6337,7 @@ function HEX3Aanonymous_2650801139(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801140(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6345,7 +6345,7 @@ function HEX3Aanonymous_2650801140(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801141(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6353,7 +6353,7 @@ function HEX3Aanonymous_2650801141(self_2650801135, ev_2650801136) {
     }
     
 function HEX3Aanonymous_2650801142(self_2650801135, ev_2650801136) {
-      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
+      var F = {procname: "initTaskDesc.:anonymous", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/components/layout/base23.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6362,7 +6362,7 @@ function HEX3Aanonymous_2650801142(self_2650801135, ev_2650801136) {
 
   var result_2650801132 = null;
 
-  var F = {procname: "base23.initTaskDesc", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.initTaskDesc", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 19;
@@ -6398,7 +6398,7 @@ function HEX3Aanonymous_2650801142(self_2650801135, ev_2650801136) {
 function initStrut_2566915439(uniqCompId_2566915440, height_2566915441, width_2566915442) {
     
 function HEX3Aanonymous_2566915451(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6406,7 +6406,7 @@ function HEX3Aanonymous_2566915451(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915454(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6414,7 +6414,7 @@ function HEX3Aanonymous_2566915454(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915455(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6422,7 +6422,7 @@ function HEX3Aanonymous_2566915455(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915456(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6430,7 +6430,7 @@ function HEX3Aanonymous_2566915456(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915457(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6438,7 +6438,7 @@ function HEX3Aanonymous_2566915457(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915458(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6446,7 +6446,7 @@ function HEX3Aanonymous_2566915458(self_2566915452, ev_2566915453) {
     }
     
 function HEX3Aanonymous_2566915459(self_2566915452, ev_2566915453) {
-      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initStrut.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6455,7 +6455,7 @@ function HEX3Aanonymous_2566915459(self_2566915452, ev_2566915453) {
 
   var result_2566915443 = null;
 
-  var F = {procname: "layout.initStrut", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initStrut", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 29;
@@ -6491,7 +6491,7 @@ function HEX3Aanonymous_2566915459(self_2566915452, ev_2566915453) {
 function remember_2550136873(val_2550136875) {
   var result_2550136876 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -6505,7 +6505,7 @@ function remember_2550136873(val_2550136875) {
 function initProbGrid_2566914479(uniqCompId_2566914480, n_2566914481, stretch_2566914482, style_2566914483, class_2566914484) {
     
 function HEX3Aanonymous_2566914499(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6513,7 +6513,7 @@ function HEX3Aanonymous_2566914499(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914502(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6521,7 +6521,7 @@ function HEX3Aanonymous_2566914502(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914503(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6529,7 +6529,7 @@ function HEX3Aanonymous_2566914503(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914504(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6537,7 +6537,7 @@ function HEX3Aanonymous_2566914504(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914505(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6545,7 +6545,7 @@ function HEX3Aanonymous_2566914505(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914506(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6553,7 +6553,7 @@ function HEX3Aanonymous_2566914506(self_2566914500, ev_2566914501) {
     }
     
 function HEX3Aanonymous_2566914507(self_2566914500, ev_2566914501) {
-      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
+      var F = {procname: "initProbGrid.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/layout.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6562,7 +6562,7 @@ function HEX3Aanonymous_2566914507(self_2566914500, ev_2566914501) {
 
   var result_2566914485 = null;
 
-  var F = {procname: "layout.initProbGrid", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.initProbGrid", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 15;
@@ -6598,7 +6598,7 @@ function HEX3Aanonymous_2566914507(self_2566914500, ev_2566914501) {
 function initProbGroup_2583692187(uniqCompId_2583692188, style_2583692189, class_2583692190) {
     
 function HEX3Aanonymous_2583692199(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6606,7 +6606,7 @@ function HEX3Aanonymous_2583692199(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692202(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6614,7 +6614,7 @@ function HEX3Aanonymous_2583692202(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692203(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6622,7 +6622,7 @@ function HEX3Aanonymous_2583692203(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692204(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6630,7 +6630,7 @@ function HEX3Aanonymous_2583692204(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692205(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6638,7 +6638,7 @@ function HEX3Aanonymous_2583692205(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692206(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6646,7 +6646,7 @@ function HEX3Aanonymous_2583692206(self_2583692200, ev_2583692201) {
     }
     
 function HEX3Aanonymous_2583692207(self_2583692200, ev_2583692201) {
-      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initProbGroup.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6655,7 +6655,7 @@ function HEX3Aanonymous_2583692207(self_2583692200, ev_2583692201) {
 
   var result_2583692191 = null;
 
-  var F = {procname: "markup.initProbGroup", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.initProbGroup", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 26;
@@ -6691,7 +6691,7 @@ function HEX3Aanonymous_2583692207(self_2583692200, ev_2583692201) {
 function rand_2483028079(r_2483028081, max_2483028082) {
   var result_2483028083 = 0n;
 
-  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if ((max_2483028082 == 0n)) {
@@ -6740,12 +6740,12 @@ function rand_2483028079(r_2483028081, max_2483028082) {
 function rand_520094054(r_520094056, x_520094057) {
   var result_520094058 = 0;
 
-  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     if (!((x_520094057.a <= x_520094057.b))) {
     F.line = 339;
     F.filename = "random.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim(339, 3) `x.a <= x.b` "));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim(339, 3) `x.a <= x.b` "));
     }
     
     F.line = 346;
@@ -6759,7 +6759,7 @@ function rand_520094054(r_520094056, x_520094057) {
 function rand_520094042(x_520094044) {
   var result_520094045 = 0;
 
-  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
+  var F = {procname: "rand.rand", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/random.nim", line: 0};
   framePtr = F;
     F.line = 368;
     F.filename = "random.nim";
@@ -6773,7 +6773,7 @@ function rand_520094042(x_520094044) {
 function HEX2EHEX2E_771751986(a_771751989, b_771751990) {
   var result_771751991 = ({a: 0, b: 0});
 
-  var F = {procname: ".....", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: ".....", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 416;
     F.filename = "system.nim";
@@ -6787,7 +6787,7 @@ function HEX2EHEX2E_771751986(a_771751989, b_771751990) {
 function remember_2600468604(val_2600468606) {
   var result_2600468607 = null;
 
-  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "remember.remember", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 42;
     F.filename = "state.nim";
@@ -6801,7 +6801,7 @@ function remember_2600468604(val_2600468606) {
 function nextProb_2600468511(c_2600468512) {
   var result_2600468513 = 0;
 
-  var F = {procname: "numbering.nextProb", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.nextProb", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 27;
     F.filename = "numbering.nim";
@@ -6823,7 +6823,7 @@ function nextProb_2600468511(c_2600468512) {
 function HEX24_2566914838(self_2566914840) {
   var result_2566914841 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 54;
     F.filename = "state.nim";
@@ -6837,7 +6837,7 @@ function HEX24_2566914838(self_2566914840) {
 function initprobMark_2600469337(uniqCompId_2600469338, counter_2600469339, count_2600469344, text_2600469349) {
     
 function HEX3Aanonymous_2600469361(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6845,7 +6845,7 @@ function HEX3Aanonymous_2600469361(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469364(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6853,7 +6853,7 @@ function HEX3Aanonymous_2600469364(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469365(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6861,7 +6861,7 @@ function HEX3Aanonymous_2600469365(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469366(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6869,7 +6869,7 @@ function HEX3Aanonymous_2600469366(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469367(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6877,7 +6877,7 @@ function HEX3Aanonymous_2600469367(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469368(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6885,7 +6885,7 @@ function HEX3Aanonymous_2600469368(self_2600469362, ev_2600469363) {
     }
     
 function HEX3Aanonymous_2600469369(self_2600469362, ev_2600469363) {
-      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initprobMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6894,7 +6894,7 @@ function HEX3Aanonymous_2600469369(self_2600469362, ev_2600469363) {
 
   var result_2600469350 = null;
 
-  var F = {procname: "numbering.initprobMark", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.initprobMark", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 77;
@@ -6934,7 +6934,7 @@ function HEX3Aanonymous_2600469369(self_2600469362, ev_2600469363) {
 function nextPart_2600468518(c_2600468519) {
   var result_2600468520 = 0;
 
-  var F = {procname: "numbering.nextPart", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.nextPart", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 34;
     F.filename = "numbering.nim";
@@ -6954,7 +6954,7 @@ function nextPart_2600468518(c_2600468519) {
 function initpartMark_2600469007(uniqCompId_2600469008, counter_2600469009, count_2600469014, text_2600469019) {
     
 function HEX3Aanonymous_2600469031(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6962,7 +6962,7 @@ function HEX3Aanonymous_2600469031(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469034(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6970,7 +6970,7 @@ function HEX3Aanonymous_2600469034(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469035(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6978,7 +6978,7 @@ function HEX3Aanonymous_2600469035(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469036(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6986,7 +6986,7 @@ function HEX3Aanonymous_2600469036(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469037(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -6994,7 +6994,7 @@ function HEX3Aanonymous_2600469037(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469038(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7002,7 +7002,7 @@ function HEX3Aanonymous_2600469038(self_2600469032, ev_2600469033) {
     }
     
 function HEX3Aanonymous_2600469039(self_2600469032, ev_2600469033) {
-      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+      var F = {procname: "initpartMark.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7011,7 +7011,7 @@ function HEX3Aanonymous_2600469039(self_2600469032, ev_2600469033) {
 
   var result_2600469020 = null;
 
-  var F = {procname: "numbering.initpartMark", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.initpartMark", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 69;
@@ -7051,7 +7051,7 @@ function HEX3Aanonymous_2600469039(self_2600469032, ev_2600469033) {
 function initTag_1795162131(name_1795162132, attrs_1795162133, children_1795162138, onlyChildren_1795162139) {
   var result_1795162140 = null;
 
-  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.initTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 84;
     F.filename = "tag.nim";
@@ -7087,7 +7087,7 @@ function initTag_1795162131(name_1795162132, attrs_1795162133, children_17951621
             i_520096153 = addInt(i_520096153, 1);
             if (!(((children_1795162138).length == L_520096154))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7105,7 +7105,7 @@ function parseSaturatedNatural_738197910(s_738197911, b_738197912, b_738197912_I
 
   var result_738197913 = 0;
 
-  var F = {procname: "parseutils.parseSaturatedNatural", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
+  var F = {procname: "parseutils.parseSaturatedNatural", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
   framePtr = F;
     F.line = 500;
     F.filename = "parseutils.nim";
@@ -7158,7 +7158,7 @@ function parseSaturatedNatural_738197910(s_738197911, b_738197912, b_738197912_I
 function parseSaturatedNatural_738198416(s_738198417, b_738198418, b_738198418_Idx, start_738198419) {
   var result_738198420 = 0;
 
-  var F = {procname: "parseutils.parseSaturatedNatural", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
+  var F = {procname: "parseutils.parseSaturatedNatural", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/parseutils.nim", line: 0};
   framePtr = F;
     F.line = 1013;
     F.filename = "parseutils.nim";
@@ -7175,7 +7175,7 @@ function parseStandardFormatSpecifier_687865914(s_687865915, start_687865916, ig
 
   var result_687865918 = ({fill: 0, align: 0, sign: 0, alternateForm: false, padWithZero: false, minimumWidth: 0, precision: 0, typ: 0, endPosition: 0});
 
-  var F = {procname: "strformat.parseStandardFormatSpecifier", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "strformat.parseStandardFormatSpecifier", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 434;
     F.filename = "strformat.nim";
@@ -7265,12 +7265,12 @@ function mkDigit_687865861(v_687865862, typ_687865863) {
 
   var result_687865864 = [];
 
-  var F = {procname: "strformat.mkDigit", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "strformat.mkDigit", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     if (!((v_687865862 < 26))) {
     F.line = 324;
     F.filename = "strformat.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim(324, 9) `v < 26` "));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim(324, 9) `v < 26` "));
     }
     
     if ((v_687865862 < 10)) {
@@ -7298,7 +7298,7 @@ function mkDigit_687865861(v_687865862, typ_687865863) {
 function nsuRepeatChar(c_704644193, count_704644194) {
   var result_704644195 = [];
 
-  var F = {procname: "strutils.repeat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.repeat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 1328;
     F.filename = "strutils.nim";
@@ -7341,7 +7341,7 @@ function formatInt_1140851130(n_1140851132, radix_1140851133, spec_1140851134) {
 
   var result_1140851135 = [];
 
-  var F = {procname: "formatInt.formatInt", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatInt.formatInt", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 370;
     F.filename = "strformat.nim";
@@ -7513,7 +7513,7 @@ function formatInt_1140851130(n_1140851132, radix_1140851133, spec_1140851134) {
 }
 
 function formatValue_1140851122(result_1140851124, result_1140851124_Idx, value_1140851125, specifier_1140851126) {
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (((specifier_1140851126).length == 0)) {
@@ -7562,7 +7562,7 @@ function formatValue_1140851122(result_1140851124, result_1140851124_Idx, value_
 function initBlank_2583691279(uniqCompId_2583691280, width_2583691281, prompt_2583691282, style_2583691283, class_2583691284) {
     
 function HEX3Aanonymous_2583691299(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7570,7 +7570,7 @@ function HEX3Aanonymous_2583691299(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691302(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7578,7 +7578,7 @@ function HEX3Aanonymous_2583691302(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691303(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7586,7 +7586,7 @@ function HEX3Aanonymous_2583691303(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691304(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7594,7 +7594,7 @@ function HEX3Aanonymous_2583691304(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691305(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7602,7 +7602,7 @@ function HEX3Aanonymous_2583691305(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691306(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7610,7 +7610,7 @@ function HEX3Aanonymous_2583691306(self_2583691300, ev_2583691301) {
     }
     
 function HEX3Aanonymous_2583691307(self_2583691300, ev_2583691301) {
-      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
+      var F = {procname: "initBlank.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/markup.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -7619,7 +7619,7 @@ function HEX3Aanonymous_2583691307(self_2583691300, ev_2583691301) {
 
   var result_2583691285 = null;
 
-  var F = {procname: "markup.initBlank", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.initBlank", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 9;
@@ -7653,7 +7653,7 @@ function HEX3Aanonymous_2583691307(self_2583691300, ev_2583691301) {
 }
 
 function reset_2600468509(c_2600468510, c_2600468510_Idx) {
-  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
+  var F = {procname: "numbering.reset", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/numbering.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "numbering.nim";
@@ -7673,7 +7673,7 @@ function nstTake(t_1023410354, key_1023410355) {
   var result_1023410356 = null;
   var result_1023410356_Idx = 0;
 
-  var F = {procname: "strtabs.[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
+  var F = {procname: "strtabs.[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strtabs.nim", line: 0};
   framePtr = F;
     F.line = 145;
     F.filename = "strtabs.nim";
@@ -7698,7 +7698,7 @@ function toDom_1795162495(self_1795162496) {
 
   var result_1795162499 = {Field0: null, Field1: false};
 
-  var F = {procname: "tag.toDom", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.toDom", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (self_1795162496.isText) {
@@ -7752,7 +7752,7 @@ function toDom_1795162495(self_1795162496) {
             i_520096182 = addInt(i_520096182, 1);
             if (!(((self_1795162496.children).length == L_520096183))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7831,7 +7831,7 @@ function toDom_1795162495(self_1795162496) {
             i_520096198 = addInt(i_520096198, 1);
             if (!(((self_1795162496.args).length == L_520096199))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7875,7 +7875,7 @@ function toDom_1795162495(self_1795162496) {
             i_520096203 = addInt(i_520096203, 1);
             if (!(((self_1795162496.children).length == L_520096204))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7897,7 +7897,7 @@ function toDom_1795162495(self_1795162496) {
 }
 
 function renderVdom_1660950517(app_1660950518, tag_1660950519, force_1660950520) {
-  var F = {procname: "renderer.renderVdom", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.renderVdom", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 248;
     F.filename = "renderer.nim";
@@ -7931,7 +7931,7 @@ function renderVdom_1660950517(app_1660950518, tag_1660950519, force_1660950520)
             i_520096167 = addInt(i_520096167, 1);
             if (!(((createdComponentsList_1660947521[0]).length == L_520096168))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7960,7 +7960,7 @@ function renderVdom_1660950517(app_1660950518, tag_1660950519, force_1660950520)
             i_520096171 = addInt(i_520096171, 1);
             if (!(((currentComponentsList_1660947516[0]).length == L_520096172))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -7994,7 +7994,7 @@ function renderVdom_1660950517(app_1660950518, tag_1660950519, force_1660950520)
               i_520096175 = addInt(i_520096175, 1);
               if (!(((currentComponentsList_1660947516[0]).length == L_520096176))) {
               F.line = 246;
-              failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+              failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
             }
@@ -8014,7 +8014,7 @@ function renderVdom_1660950517(app_1660950518, tag_1660950519, force_1660950520)
 function find_2516582754(a_2516582757, item_2516582758) {
   var result_2516582759 = 0;
 
-  var F = {procname: "find.find", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "find.find", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 1665;
@@ -8059,7 +8059,7 @@ function find_2516582754(a_2516582757, item_2516582758) {
 function contains_2516582749(a_2516582751, item_2516582752) {
   var result_2516582753 = false;
 
-  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 1683;
@@ -8076,7 +8076,7 @@ function contains_2516582749(a_2516582751, item_2516582752) {
 function callRouter_520093803(force_520093804) {
     var Temporary1;
 
-  var F = {procname: "geo_t1_1_4_L1.callRouter", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "geo_t1_1_4_L1.callRouter", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 687;
@@ -8140,7 +8140,7 @@ function callRouter_520093803(force_520093804) {
     F.line = 15;
     F.filename = "geo_t1_1_4_L1.nim";
     var c70_520093896 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_520093897 = newSeq_2533360078(0);
     Label2: {
@@ -8261,7 +8261,7 @@ function callRouter_520093803(force_520093804) {
             var comp777915484_520095014 = registerComponent_1660950158(toJSStr(([99,111,109,112,55,55,55,57,49,53,52,56,52,99,111,109,112,55,49,55,51,49,52,50,55,56] || []).concat(HEX24_369098760(c70_520093896) || [])), _comp777915484_520095013);
             F.line = 142;
             F.filename = "macro_utils.nim";
-            F.line = 915;
+            F.line = 929;
             var collectResult_520095015 = newSeq_2533360078(0);
             Label7: {
               F.line = 23;
@@ -8507,7 +8507,7 @@ function callRouter_520093803(force_520093804) {
 }
 
 function onDOMContentLoaded_520095987(ev_520095988) {
-  var F = {procname: "geo_t1_1_4_L1.onDOMContentLoaded", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "geo_t1_1_4_L1.onDOMContentLoaded", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 687;
     F.filename = "renderer.nim";
@@ -8518,7 +8518,7 @@ function onDOMContentLoaded_520095987(ev_520095988) {
 }
 
 function route_1660950102(path_1660950103) {
-  var F = {procname: "renderer.route", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.route", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 180;
     F.filename = "renderer.nim";
@@ -8540,7 +8540,7 @@ function route_1660950102(path_1660950103) {
 
   
 }
-var F = {procname: "module geo_t1_1_4_L1", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/Geometry/lesson1_4_1/geo_t1_1_4_L1/geo_t1_1_4_L1.nim", line: 0};
+var F = {procname: "module geo_t1_1_4_L1", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson1_4_1/geo_t1_1_4_L1/geo_t1_1_4_L1.nim", line: 0};
 framePtr = F;
 F.line = 8;
 F.filename = "geo_t1_1_4_L1.nim";
@@ -8574,12 +8574,12 @@ else {
 }
 
 framePtr = F.prev;
-var F = {procname: "module geo_t1_1_4_L1", prev: framePtr, filename: "/usr/share/class/bSync/web/wwwLP/Geometry/lesson1_4_1/geo_t1_1_4_L1/geo_t1_1_4_L1.nim", line: 0};
+var F = {procname: "module geo_t1_1_4_L1", prev: framePtr, filename: "/home/taquimby/bSync/web/wwwLP/Geometry/lesson1_4_1/geo_t1_1_4_L1/geo_t1_1_4_L1.nim", line: 0};
 framePtr = F;
 framePtr = F.prev;
 
 function sysFatal_33557113(message_33557116) {
-  var F = {procname: "sysFatal.sysFatal", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/fatal.nim", line: 0};
+  var F = {procname: "sysFatal.sysFatal", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/fatal.nim", line: 0};
   framePtr = F;
     F.line = 53;
     F.filename = "fatal.nim";
@@ -8601,7 +8601,7 @@ function chckNilDisp(p_33557112, p_33557112_Idx) {
 function nsuToLowerAsciiChar(c_704643157) {
   var result_704643158 = 0;
 
-  var F = {procname: "strutils.toLowerAscii", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.toLowerAscii", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     if ((ConstSet14[c_704643157] != undefined)) {
     F.line = 218;
@@ -8622,7 +8622,7 @@ function nsuToLowerAsciiChar(c_704643157) {
 function nsuIntToStr(x_704643920, minchars_704643921) {
   var result_704643922 = [];
 
-  var F = {procname: "strutils.intToStr", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.intToStr", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 1122;
     F.filename = "strutils.nim";
@@ -8669,13 +8669,13 @@ function nsuIntToStr(x_704643920, minchars_704643921) {
 function monthday_1728054603(dt_1728054604) {
   var result_1728054605 = 0;
 
-  var F = {procname: "times.monthday", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.monthday", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1077;
     F.filename = "times.nim";
     if (!(!((dt_1728054604.monthdayZero == 0)))) {
     F.line = 1078;
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1078, 28) `dt.monthdayZero != 0` Uninitialized datetime"));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1078, 28) `dt.monthdayZero != 0` Uninitialized datetime"));
     }
     
     result_1728054605 = dt_1728054604.monthdayZero;
@@ -8688,12 +8688,12 @@ function monthday_1728054603(dt_1728054604) {
 function ntgetDateStr(dt_1728055003) {
   var result_1728055004 = [[]];
 
-  var F = {procname: "times.getDateStr", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getDateStr", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     if (!(!((dt_1728055003.monthdayZero == 0)))) {
     F.line = 1504;
     F.filename = "times.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1504, 3) `dt.monthdayZero != 0` Uninitialized datetime"));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1504, 3) `dt.monthdayZero != 0` Uninitialized datetime"));
     }
     
     F.line = 1505;
@@ -8717,7 +8717,7 @@ function ntgetDateStr(dt_1728055003) {
 function HEX2B_1728053266(a_1728053267, b_1728053268) {
   var result_1728053269 = 0n;
 
-  var F = {procname: "times.+", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.+", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 225;
     F.filename = "times.nim";
@@ -8731,7 +8731,7 @@ function HEX2B_1728053266(a_1728053267, b_1728053268) {
 function HEX2A_1728053258(a_1728053259, b_1728053260) {
   var result_1728053261 = 0n;
 
-  var F = {procname: "times.*", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.*", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 221;
     F.filename = "times.nim";
@@ -8747,7 +8747,7 @@ function convert_1728053750(unitFrom_1728053752, unitTo_1728053753, quantity_172
 
   var result_1728053755 = 0n;
 
-  var F = {procname: "convert.convert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "convert.convert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 435;
     F.filename = "times.nim";
@@ -8770,7 +8770,7 @@ function convert_1728053817(unitFrom_1728053819, unitTo_1728053820, quantity_172
 
   var result_1728053822 = 0;
 
-  var F = {procname: "convert.convert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "convert.convert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 435;
     F.filename = "times.nim";
@@ -8798,7 +8798,7 @@ function checkOverflowInt64(a_33557070) {
 function normalize_1728054465(seconds_1728054467, nanoseconds_1728054468) {
   var result_1728054469 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "normalize.normalize", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "normalize.normalize", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 450;
     F.filename = "times.nim";
@@ -8823,7 +8823,7 @@ function normalize_1728054465(seconds_1728054467, nanoseconds_1728054468) {
 function HEX2D_1728053274(a_1728053275, b_1728053276) {
   var result_1728053277 = 0n;
 
-  var F = {procname: "times.-", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.-", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 229;
     F.filename = "times.nim";
@@ -8837,7 +8837,7 @@ function HEX2D_1728053274(a_1728053275, b_1728053276) {
 function HEX2D_1728053278(a_1728053279, b_1728053280) {
   var result_1728053281 = 0;
 
-  var F = {procname: "times.-", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.-", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 231;
     F.filename = "times.nim";
@@ -8851,7 +8851,7 @@ function HEX2D_1728053278(a_1728053279, b_1728053280) {
 function ntSubTime(a_1728054495, b_1728054496) {
   var result_1728054497 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "times.-", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.-", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1014;
     F.filename = "times.nim";
@@ -8865,7 +8865,7 @@ function ntSubTime(a_1728054495, b_1728054496) {
 function normalize_1728053807(seconds_1728053809, nanoseconds_1728053810) {
   var result_1728053811 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "normalize.normalize", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "normalize.normalize", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 450;
     F.filename = "times.nim";
@@ -8890,7 +8890,7 @@ function normalize_1728053807(seconds_1728053809, nanoseconds_1728053810) {
 function initDuration_1728053740(nanoseconds_1728053741, microseconds_1728053742, milliseconds_1728053743, seconds_1728053744, minutes_1728053745, hours_1728053746, days_1728053747, weeks_1728053748) {
   var result_1728053749 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "times.initDuration", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.initDuration", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 669;
     F.filename = "times.nim";
@@ -8920,7 +8920,7 @@ function floorDiv_1728053571(x_1728053573, y_1728053574) {
 }
 
 function inc_1728053290(a_1728053291, a_1728053291_Idx, b_1728053292) {
-  var F = {procname: "times.inc", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.inc", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 235;
     F.filename = "times.nim";
@@ -8936,7 +8936,7 @@ function fromEpochDay_1728053474(epochday_1728053475) {
 
   var result_1728053479 = {Field0: 0, Field1: 0, Field2: 0};
 
-  var F = {procname: "times.fromEpochDay", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.fromEpochDay", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 503;
@@ -8993,7 +8993,7 @@ function fromEpochDay_1728053474(epochday_1728053475) {
 function isLeapYear_1728053418(year_1728053419) {
   var result_1728053420 = false;
 
-  var F = {procname: "times.isLeapYear", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.isLeapYear", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 458;
     F.filename = "times.nim";
@@ -9009,7 +9009,7 @@ function getDaysInMonth_1728053421(month_1728053422, year_1728053423) {
 
   var result_1728053424 = 0;
 
-  var F = {procname: "times.getDaysInMonth", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getDaysInMonth", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 470;
     F.filename = "times.nim";
@@ -9044,12 +9044,12 @@ function getDaysInMonth_1728053421(month_1728053422, year_1728053423) {
 }
 
 function assertValidDate_1728053425(monthday_1728053426, month_1728053427, year_1728053428) {
-  var F = {procname: "times.assertValidDate", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.assertValidDate", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     if (!((monthday_1728053426 <= getDaysInMonth_1728053421(month_1728053427, year_1728053428)))) {
     F.line = 477;
     F.filename = "times.nim";
-    failedAssertImpl_268435541((makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(477, 3) `monthday <= getDaysInMonth(month, year)` ") || []).concat(HEX24_369098760(year_1728053428) || [],[45] || [],nsuIntToStr(month_1728053427, 2) || [],[45] || [],HEX24_369098760(monthday_1728053426) || [],[32,105,115,32,110,111,116,32,97,32,118,97,108,105,100,32,100,97,116,101] || []));
+    failedAssertImpl_268435541((makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(477, 3) `monthday <= getDaysInMonth(month, year)` ") || []).concat(HEX24_369098760(year_1728053428) || [],[45] || [],nsuIntToStr(month_1728053427, 2) || [],[45] || [],HEX24_369098760(monthday_1728053426) || [],[32,105,115,32,110,111,116,32,97,32,118,97,108,105,100,32,100,97,116,101] || []));
     }
     
   framePtr = F.prev;
@@ -9060,7 +9060,7 @@ function assertValidDate_1728053425(monthday_1728053426, month_1728053427, year_
 function HEX2A_1728053262(a_1728053263, b_1728053264) {
   var result_1728053265 = 0;
 
-  var F = {procname: "times.*", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.*", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 223;
     F.filename = "times.nim";
@@ -9074,7 +9074,7 @@ function HEX2A_1728053262(a_1728053263, b_1728053264) {
 function HEX2B_1728053270(a_1728053271, b_1728053272) {
   var result_1728053273 = 0;
 
-  var F = {procname: "times.+", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.+", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 227;
     F.filename = "times.nim";
@@ -9091,7 +9091,7 @@ function toEpochDay_1728053454(monthday_1728053455, month_1728053456, year_17280
 
   var result_1728053458 = 0n;
 
-  var F = {procname: "times.toEpochDay", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.toEpochDay", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 486;
@@ -9145,7 +9145,7 @@ function getDayOfWeek_1728053565(monthday_1728053566, month_1728053567, year_172
 
   var result_1728053569 = 0;
 
-  var F = {procname: "times.getDayOfWeek", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getDayOfWeek", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 543;
     F.filename = "times.nim";
@@ -9174,7 +9174,7 @@ function getDayOfWeek_1728053565(monthday_1728053566, month_1728053567, year_172
 function getDayOfYear_1728053526(monthday_1728053527, month_1728053528, year_1728053529) {
   var result_1728053530 = 0;
 
-  var F = {procname: "times.getDayOfYear", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getDayOfYear", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 524;
     F.filename = "times.nim";
@@ -9197,7 +9197,7 @@ function getDayOfYear_1728053526(monthday_1728053527, month_1728053528, year_172
 function initDateTime_1728054717(zt_1728054718, zone_1728054719) {
   var result_1728054720 = ({m_type: NTI1728053281, nanosecond: 0, second: 0, minute: 0, hour: 0, monthdayZero: 0, monthZero: 0, year: 0, weekday: 0, yearday: 0, isDst: false, timezone: null, utcOffset: 0});
 
-  var F = {procname: "times.initDateTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.initDateTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1166;
     F.filename = "times.nim";
@@ -9237,7 +9237,7 @@ function initDateTime_1728054717(zt_1728054718, zone_1728054719) {
 function zonedTimeFromTime_1728054806(zone_1728054807, time_1728054808) {
   var result_1728054809 = ({time: ({seconds: 0n, nanosecond: 0}), utcOffset: 0, isDst: false});
 
-  var F = {procname: "times.zonedTimeFromTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.zonedTimeFromTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1235;
     F.filename = "times.nim";
@@ -9251,7 +9251,7 @@ function zonedTimeFromTime_1728054806(zone_1728054807, time_1728054808) {
 function inZone_1728054856(time_1728054857, zone_1728054858) {
   var result_1728054859 = ({m_type: NTI1728053281, nanosecond: 0, second: 0, minute: 0, hour: 0, monthdayZero: 0, monthZero: 0, year: 0, weekday: 0, yearday: 0, isDst: false, timezone: null, utcOffset: 0});
 
-  var F = {procname: "times.inZone", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.inZone", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1264;
     F.filename = "times.nim";
@@ -9265,7 +9265,7 @@ function inZone_1728054856(time_1728054857, zone_1728054858) {
 function newTimezone_1728054763(name_1728054764, zonedTimeFromTimeImpl_1728054767, zonedTimeFromAdjTimeImpl_1728054770) {
   var result_1728054771 = null;
 
-  var F = {procname: "times.newTimezone", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.newTimezone", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1201;
     F.filename = "times.nim";
@@ -9279,7 +9279,7 @@ function newTimezone_1728054763(name_1728054764, zonedTimeFromTimeImpl_172805476
 function localZonedTimeFromTime_1728054874(time_1728054875) {
   var result_1728054876 = ({time: ({seconds: 0n, nanosecond: 0}), utcOffset: 0, isDst: false});
 
-  var F = {procname: "times.localZonedTimeFromTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.localZonedTimeFromTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1283;
     F.filename = "times.nim";
@@ -9301,7 +9301,7 @@ function localZonedTimeFromTime_1728054874(time_1728054875) {
 function contains_1325400212(s_1325400216, value_1325400217) {
   var result_1325400218 = false;
 
-  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 756;
     F.filename = "system.nim";
@@ -9315,7 +9315,7 @@ function contains_1325400212(s_1325400216, value_1325400217) {
 function ntAddTime(a_1728054459, b_1728054460) {
   var result_1728054461 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "times.+", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.+", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1008;
     F.filename = "times.nim";
@@ -9329,7 +9329,7 @@ function ntAddTime(a_1728054459, b_1728054460) {
 function localZonedTimeFromAdjTime_1728054879(adjTime_1728054880) {
   var result_1728054881 = ({time: ({seconds: 0n, nanosecond: 0}), utcOffset: 0, isDst: false});
 
-  var F = {procname: "times.localZonedTimeFromAdjTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.localZonedTimeFromAdjTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1290;
     F.filename = "times.nim";
@@ -9356,7 +9356,7 @@ function localZonedTimeFromAdjTime_1728054879(adjTime_1728054880) {
 function local_1728054923() {
   var result_1728054924 = null;
 
-  var F = {procname: "times.local", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.local", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     if ((localInstance_1728054901[0] == null)) {
     F.line = 1389;
@@ -9375,7 +9375,7 @@ function local_1728054923() {
 function local_1728054937(t_1728054938) {
   var result_1728054939 = ({m_type: NTI1728053281, nanosecond: 0, second: 0, minute: 0, hour: 0, monthdayZero: 0, monthZero: 0, year: 0, weekday: 0, yearday: 0, isDst: false, timezone: null, utcOffset: 0});
 
-  var F = {procname: "times.local", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.local", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1406;
     F.filename = "times.nim";
@@ -9389,7 +9389,7 @@ function local_1728054937(t_1728054938) {
 function initTime_1728054329(unix_1728054330, nanosecond_1728054331) {
   var result_1728054332 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "times.initTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.initTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 913;
     F.filename = "times.nim";
@@ -9405,7 +9405,7 @@ function initTime_1728054329(unix_1728054330, nanosecond_1728054331) {
 function getTime_1728054407() {
   var result_1728054408 = ({seconds: 0n, nanosecond: 0});
 
-  var F = {procname: "times.getTime", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getTime", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 981;
     F.filename = "times.nim";
@@ -9425,7 +9425,7 @@ function getTime_1728054407() {
 function now_1728054940() {
   var result_1728054941 = ({m_type: NTI1728053281, nanosecond: 0, second: 0, minute: 0, hour: 0, monthdayZero: 0, monthZero: 0, year: 0, weekday: 0, yearday: 0, isDst: false, timezone: null, utcOffset: 0});
 
-  var F = {procname: "times.now", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.now", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     F.line = 1410;
     F.filename = "times.nim";
@@ -9439,12 +9439,12 @@ function now_1728054940() {
 function ntgetClockStr(dt_1728055011) {
   var result_1728055012 = [];
 
-  var F = {procname: "times.getClockStr", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
+  var F = {procname: "times.getClockStr", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim", line: 0};
   framePtr = F;
     if (!(!((dt_1728055011.monthdayZero == 0)))) {
     F.line = 1516;
     F.filename = "times.nim";
-    failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1516, 3) `dt.monthdayZero != 0` Uninitialized datetime"));
+    failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/times.nim(1516, 3) `dt.monthdayZero != 0` Uninitialized datetime"));
     }
     
     F.line = 1517;
@@ -9470,7 +9470,7 @@ function substituteLog_1677721629(frmt_1677721630, level_1677721631, args_167772
 
   var result_1677721633 = [];
 
-  var F = {procname: "logging.substituteLog", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+  var F = {procname: "logging.substituteLog", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
   framePtr = F;
     F.line = 306;
     F.filename = "logging.nim";
@@ -9593,7 +9593,7 @@ function substituteLog_1677721629(frmt_1677721630, level_1677721631, args_167772
 }
 
 function log_1677721674(logger_1677721675, level_1677721676, args_1677721677) {
-  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
   framePtr = F;
     if (((level_1677721627[0] <= level_1677721676) && (logger_1677721675.levelThreshold <= level_1677721676))) {
     F.line = 380;
@@ -9632,7 +9632,7 @@ function log_1677721674(logger_1677721675, level_1677721676, args_1677721677) {
 }
 
 function log_1677721669(logger_1677721670, level_1677721671, args_1677721672) {
-  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -9640,7 +9640,7 @@ function log_1677721669(logger_1677721670, level_1677721671, args_1677721672) {
 }
 
 function log_1677721673(logger_1677721670, level_1677721671, args_1677721672) {
-  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
+  var F = {procname: "logging.log", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/logging.nim", line: 0};
   framePtr = F;
     F.line = 509;
     F.filename = "jssys.nim";
@@ -9662,7 +9662,7 @@ function log_1677721673(logger_1677721670, level_1677721671, args_1677721672) {
 }
 
 function script_2650800671(self_2650800672) {
-  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -9672,7 +9672,7 @@ function script_2650800671(self_2650800672) {
 function HEX24_2566915389(self_2566915391) {
   var result_2566915392 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 54;
     F.filename = "state.nim";
@@ -9686,7 +9686,7 @@ function HEX24_2566915389(self_2566915391) {
 function renderTag_2650800676(self_2650800677) {
   var result_2650800678 = null;
 
-  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 17;
     F.filename = "base23.nim";
@@ -9698,7 +9698,7 @@ function renderTag_2650800676(self_2650800677) {
 }
 
 function add_1795162381(self_1795162382, tags_1795162383) {
-  var F = {procname: "tag.add", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.add", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     Label1: {
       F.line = 196;
@@ -9739,7 +9739,7 @@ function add_1795162381(self_1795162382, tags_1795162383) {
 function textTag_1795162370(text_1795162371) {
   var result_1795162372 = null;
 
-  var F = {procname: "tag.textTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.textTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 178;
     F.filename = "tag.nim";
@@ -9753,7 +9753,7 @@ function textTag_1795162370(text_1795162371) {
 function style_2650800673(self_2650800674) {
   var result_2650800675 = [];
 
-  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -9767,7 +9767,7 @@ function style_2650800673(self_2650800674) {
 function render_2650801107(self_2650801108) {
   var result_2650801109 = null;
 
-  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -9802,7 +9802,7 @@ function render_2650801107(self_2650801108) {
 }
 
 function script_2634023566(self_2634023567) {
-  var F = {procname: "videos.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -9812,7 +9812,7 @@ function script_2634023566(self_2634023567) {
 function initYTvideo_2634022923(uniqCompId_2634022924, query_2634022925, width_2634022926, height_2634022927) {
     
 function HEX3Aanonymous_2634022939(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9820,7 +9820,7 @@ function HEX3Aanonymous_2634022939(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022942(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9828,7 +9828,7 @@ function HEX3Aanonymous_2634022942(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022943(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9836,7 +9836,7 @@ function HEX3Aanonymous_2634022943(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022944(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9844,7 +9844,7 @@ function HEX3Aanonymous_2634022944(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022945(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9852,7 +9852,7 @@ function HEX3Aanonymous_2634022945(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022946(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9860,7 +9860,7 @@ function HEX3Aanonymous_2634022946(self_2634022940, ev_2634022941) {
     }
     
 function HEX3Aanonymous_2634022947(self_2634022940, ev_2634022941) {
-      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
+      var F = {procname: "initYTvideo.:anonymous", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/hpxLP-0.1.0-ea3370c4c49a8a2457f7b9da861d470b971d6b97/hpxLP/videos.nim", line: 0};
       framePtr = F;
       framePtr = F.prev;
 
@@ -9869,7 +9869,7 @@ function HEX3Aanonymous_2634022947(self_2634022940, ev_2634022941) {
 
   var result_2634022928 = null;
 
-  var F = {procname: "videos.initYTvideo", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.initYTvideo", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 6;
@@ -9905,7 +9905,7 @@ function HEX3Aanonymous_2634022947(self_2634022940, ev_2634022941) {
 function renderTag_2634023571(self_2634023572) {
   var result_2634023573 = null;
 
-  var F = {procname: "videos.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 14;
     F.filename = "videos.nim";
@@ -9936,7 +9936,7 @@ function renderTag_2634023571(self_2634023572) {
 function style_2634023568(self_2634023569) {
   var result_2634023570 = [];
 
-  var F = {procname: "videos.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -9950,7 +9950,7 @@ function style_2634023568(self_2634023569) {
 function render_2634023668(self_2634023669) {
   var result_2634023670 = null;
 
-  var F = {procname: "videos.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -9985,7 +9985,7 @@ function render_2634023668(self_2634023669) {
 }
 
 function script_2634023104(self_2634023105) {
-  var F = {procname: "videos.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -9995,7 +9995,7 @@ function script_2634023104(self_2634023105) {
 function nucruneLen(s_754974748) {
   var result_754974749 = 0;
 
-  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
     F.line = 52;
     F.filename = "unicode.nim";
@@ -10053,7 +10053,7 @@ function nucruneLen(s_754974748) {
 function runeLen_754981909(s_754981910) {
   var result_754981911 = 0;
 
-  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.runeLen", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
     F.line = 1153;
     F.filename = "unicode.nim";
@@ -10067,7 +10067,7 @@ function runeLen_754981909(s_754981910) {
 function runeLenAt_754974814(s_754974815, i_754974816) {
   var result_754974817 = 0;
 
-  var F = {procname: "unicode.runeLenAt", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.runeLenAt", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
     if ((s_754974815[chckIndx(i_754974816, 0, (s_754974815).length - 1)] <= 127)) {
     F.line = 74;
@@ -10113,7 +10113,7 @@ function runeLenAt_754974814(s_754974815, i_754974816) {
 function runeOffset_754975438(s_754975439, pos_754975440, start_754975441) {
   var result_754975442 = 0;
 
-  var F = {procname: "unicode.runeOffset", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.runeOffset", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 331;
@@ -10150,7 +10150,7 @@ function runeOffset_754975438(s_754975439, pos_754975440, start_754975441) {
 function runeOffset_754982084(s_754982085, pos_754982086, start_754982087) {
   var result_754982088 = 0;
 
-  var F = {procname: "unicode.runeOffset", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.runeOffset", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
     F.line = 1196;
     F.filename = "unicode.nim";
@@ -10164,7 +10164,7 @@ function runeOffset_754982084(s_754982085, pos_754982086, start_754982087) {
 function validateUtf8_754975056(s_754975057) {
   var result_754975058 = 0;
 
-  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 184;
@@ -10246,7 +10246,7 @@ function validateUtf8_754975056(s_754975057) {
 function validateUtf8_754982081(s_754982082) {
   var result_754982083 = 0;
 
-  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
+  var F = {procname: "unicode.validateUtf8", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/unicode.nim", line: 0};
   framePtr = F;
     F.line = 1186;
     F.filename = "unicode.nim";
@@ -10262,7 +10262,7 @@ function alignString_687865876(s_687865877, minimumWidth_687865878, align_687865
 
   var result_687865881 = [];
 
-  var F = {procname: "strformat.alignString", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "strformat.alignString", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     if ((minimumWidth_687865878 == 0)) {
     F.line = 335;
@@ -10313,7 +10313,7 @@ function alignString_687865876(s_687865877, minimumWidth_687865878, align_687865
 function formatValue_687866027(result_687866028, result_687866028_Idx, value_687866029, specifier_687866030) {
     var Temporary1;
 
-  var F = {procname: "strformat.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "strformat.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 557;
     F.filename = "strformat.nim";
@@ -10347,7 +10347,7 @@ function formatValue_687866027(result_687866028, result_687866028_Idx, value_687
 }
 
 function formatValue_2566915298(result_2566915300, result_2566915300_Idx, value_2566915301, specifier_2566915302) {
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 572;
     F.filename = "strformat.nim";
@@ -10360,7 +10360,7 @@ function formatValue_2566915298(result_2566915300, result_2566915300_Idx, value_
 function renderTag_2634023109(self_2634023110) {
   var result_2634023111 = null;
 
-  var F = {procname: "videos.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 9;
     F.filename = "videos.nim";
@@ -10400,7 +10400,7 @@ function renderTag_2634023109(self_2634023110) {
 function style_2634023106(self_2634023107) {
   var result_2634023108 = [];
 
-  var F = {procname: "videos.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10414,7 +10414,7 @@ function style_2634023106(self_2634023107) {
 function render_2634023370(self_2634023371) {
   var result_2634023372 = null;
 
-  var F = {procname: "videos.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10449,7 +10449,7 @@ function render_2634023370(self_2634023371) {
 }
 
 function script_2600471035(self_2600471036) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10459,7 +10459,7 @@ function script_2600471035(self_2600471036) {
 function renderTag_2600471040(self_2600471041) {
   var result_2600471042 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 115;
     F.filename = "numbering.nim";
@@ -10497,7 +10497,7 @@ function renderTag_2600471040(self_2600471041) {
 function style_2600471037(self_2600471038) {
   var result_2600471039 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10511,7 +10511,7 @@ function style_2600471037(self_2600471038) {
 function render_2600471442(self_2600471443) {
   var result_2600471444 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10546,7 +10546,7 @@ function render_2600471442(self_2600471443) {
 }
 
 function script_2650800308(self_2650800309) {
-  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10556,7 +10556,7 @@ function script_2650800308(self_2650800309) {
 function renderTag_2650800313(self_2650800314) {
   var result_2650800315 = null;
 
-  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 10;
     F.filename = "base23.nim";
@@ -10584,7 +10584,7 @@ function renderTag_2650800313(self_2650800314) {
 function style_2650800310(self_2650800311) {
   var result_2650800312 = [];
 
-  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10598,7 +10598,7 @@ function style_2650800310(self_2650800311) {
 function render_2650800475(self_2650800476) {
   var result_2650800477 = null;
 
-  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10633,7 +10633,7 @@ function render_2650800475(self_2650800476) {
 }
 
 function script_2701131975(self_2701131976) {
-  var F = {procname: "mBlocks.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "mBlocks.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10643,7 +10643,7 @@ function script_2701131975(self_2701131976) {
 function renderTag_2701131980(self_2701131981) {
   var result_2701131982 = null;
 
-  var F = {procname: "mBlocks.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "mBlocks.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 11;
     F.filename = "mBlocks.nim";
@@ -10669,7 +10669,7 @@ function renderTag_2701131980(self_2701131981) {
     };
     F.line = 11;
     var c64_2701132081 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2701132082 = newSeq_2533360078(0);
     Label3: {
@@ -10712,7 +10712,7 @@ function renderTag_2701131980(self_2701131981) {
 function style_2701131977(self_2701131978) {
   var result_2701131979 = [];
 
-  var F = {procname: "mBlocks.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "mBlocks.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10726,7 +10726,7 @@ function style_2701131977(self_2701131978) {
 function render_2701132422(self_2701132423) {
   var result_2701132424 = null;
 
-  var F = {procname: "mBlocks.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "mBlocks.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10761,7 +10761,7 @@ function render_2701132422(self_2701132423) {
 }
 
 function script_2650801296(self_2650801297) {
-  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10771,7 +10771,7 @@ function script_2650801296(self_2650801297) {
 function renderTag_2650801301(self_2650801302) {
   var result_2650801303 = null;
 
-  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 23;
     F.filename = "base23.nim";
@@ -10791,7 +10791,7 @@ function renderTag_2650801301(self_2650801302) {
 function style_2650801298(self_2650801299) {
   var result_2650801300 = [];
 
-  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10805,7 +10805,7 @@ function style_2650801298(self_2650801299) {
 function render_2650801588(self_2650801589) {
   var result_2650801590 = null;
 
-  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10840,7 +10840,7 @@ function render_2650801588(self_2650801589) {
 }
 
 function script_2617246809(self_2617246810) {
-  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10850,7 +10850,7 @@ function script_2617246809(self_2617246810) {
 function HEX24_2550137173(self_2550137175) {
   var result_2550137176 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 54;
     F.filename = "state.nim";
@@ -10862,7 +10862,7 @@ function HEX24_2550137173(self_2550137175) {
 }
 
 function formatValue_2550137082(result_2550137084, result_2550137084_Idx, value_2550137085, specifier_2550137086) {
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 572;
     F.filename = "strformat.nim";
@@ -10875,7 +10875,7 @@ function formatValue_2550137082(result_2550137084, result_2550137084_Idx, value_
 function renderTag_2617246814(self_2617246815) {
   var result_2617246816 = null;
 
-  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 50;
     F.filename = "paper.nim";
@@ -10929,7 +10929,7 @@ function renderTag_2617246814(self_2617246815) {
 function style_2617246811(self_2617246812) {
   var result_2617246813 = [];
 
-  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10943,7 +10943,7 @@ function style_2617246811(self_2617246812) {
 function render_2617246955(self_2617246956) {
   var result_2617246957 = null;
 
-  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -10978,7 +10978,7 @@ function render_2617246955(self_2617246956) {
 }
 
 function script_2600470489(self_2600470490) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -10988,7 +10988,7 @@ function script_2600470489(self_2600470490) {
 function renderTag_2600470494(self_2600470495) {
   var result_2600470496 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 102;
     F.filename = "numbering.nim";
@@ -11014,7 +11014,7 @@ function renderTag_2600470494(self_2600470495) {
 function style_2600470491(self_2600470492) {
   var result_2600470493 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11028,7 +11028,7 @@ function style_2600470491(self_2600470492) {
 function render_2600470811(self_2600470812) {
   var result_2600470813 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11063,7 +11063,7 @@ function render_2600470811(self_2600470812) {
 }
 
 function script_2617245964(self_2617245965) {
-  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11073,7 +11073,7 @@ function script_2617245964(self_2617245965) {
 function renderTag_2617245969(self_2617245970) {
   var result_2617245971 = null;
 
-  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 14;
     F.filename = "paper.nim";
@@ -11135,7 +11135,7 @@ function renderTag_2617245969(self_2617245970) {
 function style_2617245966(self_2617245967) {
   var result_2617245968 = [];
 
-  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11149,7 +11149,7 @@ function style_2617245966(self_2617245967) {
 function render_2617246124(self_2617246125) {
   var result_2617246126 = null;
 
-  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11184,7 +11184,7 @@ function render_2617246124(self_2617246125) {
 }
 
 function script_2600471666(self_2600471667) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11194,7 +11194,7 @@ function script_2600471666(self_2600471667) {
 function renderTag_2600471671(self_2600471672) {
   var result_2600471673 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 123;
     F.filename = "numbering.nim";
@@ -11222,7 +11222,7 @@ function renderTag_2600471671(self_2600471672) {
 function style_2600471668(self_2600471669) {
   var result_2600471670 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11236,7 +11236,7 @@ function style_2600471668(self_2600471669) {
 function render_2600471772(self_2600471773) {
   var result_2600471774 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11271,7 +11271,7 @@ function render_2600471772(self_2600471773) {
 }
 
 function script_2600468803(self_2600468804) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11281,7 +11281,7 @@ function script_2600468803(self_2600468804) {
 function renderTag_2600468808(self_2600468809) {
   var result_2600468810 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 64;
     F.filename = "numbering.nim";
@@ -11311,7 +11311,7 @@ function renderTag_2600468808(self_2600468809) {
 function style_2600468805(self_2600468806) {
   var result_2600468807 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11325,7 +11325,7 @@ function style_2600468805(self_2600468806) {
 function render_2600468978(self_2600468979) {
   var result_2600468980 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11360,7 +11360,7 @@ function render_2600468978(self_2600468979) {
 }
 
 function script_2617246403(self_2617246404) {
-  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11370,7 +11370,7 @@ function script_2617246403(self_2617246404) {
 function renderTag_2617246408(self_2617246409) {
   var result_2617246410 = null;
 
-  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 32;
     F.filename = "paper.nim";
@@ -11424,7 +11424,7 @@ function renderTag_2617246408(self_2617246409) {
 function style_2617246405(self_2617246406) {
   var result_2617246407 = [];
 
-  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11438,7 +11438,7 @@ function style_2617246405(self_2617246406) {
 function render_2617246549(self_2617246550) {
   var result_2617246551 = null;
 
-  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11473,7 +11473,7 @@ function render_2617246549(self_2617246550) {
 }
 
 function script_2583692753(self_2583692754) {
-  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11483,7 +11483,7 @@ function script_2583692753(self_2583692754) {
 function nimFloatToString_385876121(a_385876122) {
   var result_385876123 = null;
 
-  var F = {procname: "formatfloat.nimFloatToString", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/formatfloat.nim", line: 0};
+  var F = {procname: "formatfloat.nimFloatToString", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/formatfloat.nim", line: 0};
   framePtr = F;
     F.line = 106;
     F.filename = "formatfloat.nim";
@@ -11506,7 +11506,7 @@ function nimFloatToString_385876121(a_385876122) {
 }
 
 function addFloat_33557563(result_33557565, result_33557565_Idx, x_33557566) {
-  var F = {procname: "addFloat.addFloat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/std/formatfloat.nim", line: 0};
+  var F = {procname: "addFloat.addFloat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/std/formatfloat.nim", line: 0};
   framePtr = F;
     F.line = 136;
     F.filename = "formatfloat.nim";
@@ -11519,7 +11519,7 @@ function addFloat_33557563(result_33557565, result_33557565_Idx, x_33557566) {
 function HEX24_33557559(x_33557561) {
   var result_33557562 = [[]];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/dollars.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/dollars.nim", line: 0};
   framePtr = F;
     F.line = 14;
     F.filename = "dollars.nim";
@@ -11533,7 +11533,7 @@ function HEX24_33557559(x_33557561) {
 function nsuformatBiggestFloat(f_704645187, format_704645188, precision_704645189, decimalSep_704645190) {
   var result_704645191 = [];
 
-  var F = {procname: "strutils.formatBiggestFloat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.formatBiggestFloat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 2452;
     F.filename = "strutils.nim";
@@ -11606,7 +11606,7 @@ function nsuformatBiggestFloat(f_704645187, format_704645188, precision_70464518
 function insert_33558003(x_33558004, x_33558004_Idx, item_33558005, i_33558006) {
     var Temporary1;
 
-  var F = {procname: "system.insert", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "system.insert", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 2415;
     F.filename = "system.nim";
@@ -11646,7 +11646,7 @@ function insert_33558003(x_33558004, x_33558004_Idx, item_33558005, i_33558006) 
 function nsuToUpperAsciiChar(c_704643176) {
   var result_704643177 = 0;
 
-  var F = {procname: "strutils.toUpperAscii", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.toUpperAscii", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     if ((ConstSet17[c_704643176] != undefined)) {
     F.line = 255;
@@ -11667,7 +11667,7 @@ function nsuToUpperAsciiChar(c_704643176) {
 function nsuToUpperAsciiStr(s_704643183) {
   var result_704643184 = [];
 
-  var F = {procname: "strutils.toUpperAscii", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.toUpperAscii", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 223;
     F.filename = "strutils.nim";
@@ -11708,7 +11708,7 @@ function nsuToUpperAsciiStr(s_704643183) {
 function formatValue_2583693021(result_2583693023, result_2583693023_Idx, value_2583693024, specifier_2583693025) {
     var Temporary1;
 
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     if (((specifier_2583693025).length == 0)) {
@@ -11828,7 +11828,7 @@ function formatValue_2583693021(result_2583693023, result_2583693023_Idx, value_
 function renderTag_2583692758(self_2583692759) {
   var result_2583692760 = null;
 
-  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 46;
     F.filename = "markup.nim";
@@ -11886,7 +11886,7 @@ function renderTag_2583692758(self_2583692759) {
 function style_2583692755(self_2583692756) {
   var result_2583692757 = [];
 
-  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11900,7 +11900,7 @@ function style_2583692755(self_2583692756) {
 function render_2583693266(self_2583693267) {
   var result_2583693268 = null;
 
-  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -11935,7 +11935,7 @@ function render_2583693266(self_2583693267) {
 }
 
 function script_2617247196(self_2617247197) {
-  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -11945,7 +11945,7 @@ function script_2617247196(self_2617247197) {
 function renderTag_2617247201(self_2617247202) {
   var result_2617247203 = null;
 
-  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 66;
     F.filename = "paper.nim";
@@ -11999,7 +11999,7 @@ function renderTag_2617247201(self_2617247202) {
 function style_2617247198(self_2617247199) {
   var result_2617247200 = [];
 
-  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12013,7 +12013,7 @@ function style_2617247198(self_2617247199) {
 function render_2617247342(self_2617247343) {
   var result_2617247344 = null;
 
-  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12048,7 +12048,7 @@ function render_2617247342(self_2617247343) {
 }
 
 function script_2566914240(self_2566914241) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12058,7 +12058,7 @@ function script_2566914240(self_2566914241) {
 function toInt_2046820970(self_2046820973) {
   var result_2046820974 = 0;
 
-  var F = {procname: "state.toInt", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "state.toInt", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 231;
     F.filename = "state.nim";
@@ -12072,7 +12072,7 @@ function toInt_2046820970(self_2046820973) {
 function renderTag_2566914245(self_2566914246) {
   var result_2566914247 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 9;
     F.filename = "layout.nim";
@@ -12104,7 +12104,7 @@ function renderTag_2566914245(self_2566914246) {
 function style_2566914242(self_2566914243) {
   var result_2566914244 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12118,7 +12118,7 @@ function style_2566914242(self_2566914243) {
 function render_2566914448(self_2566914449) {
   var result_2566914450 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12153,7 +12153,7 @@ function render_2566914448(self_2566914449) {
 }
 
 function script_2583693476(self_2583693477) {
-  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12163,7 +12163,7 @@ function script_2583693476(self_2583693477) {
 function renderTag_2583693481(self_2583693482) {
   var result_2583693483 = null;
 
-  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 56;
     F.filename = "markup.nim";
@@ -12223,7 +12223,7 @@ function renderTag_2583693481(self_2583693482) {
 function style_2583693478(self_2583693479) {
   var result_2583693480 = [];
 
-  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12237,7 +12237,7 @@ function style_2583693478(self_2583693479) {
 function render_2583693851(self_2583693852) {
   var result_2583693853 = null;
 
-  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12272,7 +12272,7 @@ function render_2583693851(self_2583693852) {
 }
 
 function script_2600469614(self_2600469615) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12282,7 +12282,7 @@ function script_2600469614(self_2600469615) {
 function renderTag_2600469619(self_2600469620) {
   var result_2600469621 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 80;
     F.filename = "numbering.nim";
@@ -12310,7 +12310,7 @@ function renderTag_2600469619(self_2600469620) {
 function style_2600469616(self_2600469617) {
   var result_2600469618 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12324,7 +12324,7 @@ function style_2600469616(self_2600469617) {
 function render_2600469719(self_2600469720) {
   var result_2600469721 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12359,7 +12359,7 @@ function render_2600469719(self_2600469720) {
 }
 
 function script_2600469202(self_2600469203) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12369,7 +12369,7 @@ function script_2600469202(self_2600469203) {
 function renderTag_2600469207(self_2600469208) {
   var result_2600469209 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 72;
     F.filename = "numbering.nim";
@@ -12397,7 +12397,7 @@ function renderTag_2600469207(self_2600469208) {
 function style_2600469204(self_2600469205) {
   var result_2600469206 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12411,7 +12411,7 @@ function style_2600469204(self_2600469205) {
 function render_2600469308(self_2600469309) {
   var result_2600469310 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12446,7 +12446,7 @@ function render_2600469308(self_2600469309) {
 }
 
 function script_2583691465(self_2583691466) {
-  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12456,7 +12456,7 @@ function script_2583691465(self_2583691466) {
 function renderTag_2583691470(self_2583691471) {
   var result_2583691472 = null;
 
-  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 12;
     F.filename = "markup.nim";
@@ -12506,7 +12506,7 @@ function renderTag_2583691470(self_2583691471) {
 function style_2583691467(self_2583691468) {
   var result_2583691469 = [];
 
-  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12520,7 +12520,7 @@ function style_2583691467(self_2583691468) {
 function render_2583691686(self_2583691687) {
   var result_2583691688 = null;
 
-  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12555,7 +12555,7 @@ function render_2583691686(self_2583691687) {
 }
 
 function script_2600469943(self_2600469944) {
-  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12565,7 +12565,7 @@ function script_2600469943(self_2600469944) {
 function renderTag_2600469948(self_2600469949) {
   var result_2600469950 = null;
 
-  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 91;
     F.filename = "numbering.nim";
@@ -12591,7 +12591,7 @@ function renderTag_2600469948(self_2600469949) {
 function style_2600469945(self_2600469946) {
   var result_2600469947 = [];
 
-  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12605,7 +12605,7 @@ function style_2600469945(self_2600469946) {
 function render_2600470265(self_2600470266) {
   var result_2600470267 = null;
 
-  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12640,7 +12640,7 @@ function render_2600470265(self_2600470266) {
 }
 
 function script_2566915152(self_2566915153) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12650,7 +12650,7 @@ function script_2566915152(self_2566915153) {
 function renderTag_2566915157(self_2566915158) {
   var result_2566915159 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 25;
     F.filename = "layout.nim";
@@ -12678,7 +12678,7 @@ function renderTag_2566915157(self_2566915158) {
 function style_2566915154(self_2566915155) {
   var result_2566915156 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12692,7 +12692,7 @@ function style_2566915154(self_2566915155) {
 function render_2566915412(self_2566915413) {
   var result_2566915414 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12727,7 +12727,7 @@ function render_2566915412(self_2566915413) {
 }
 
 function script_2566914665(self_2566914666) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12737,7 +12737,7 @@ function script_2566914665(self_2566914666) {
 function HEX24_2550137284(self_2550137286) {
   var result_2550137287 = [];
 
-  var F = {procname: "$.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/state.nim", line: 0};
+  var F = {procname: "$.$", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/state.nim", line: 0};
   framePtr = F;
     F.line = 54;
     F.filename = "state.nim";
@@ -12749,7 +12749,7 @@ function HEX24_2550137284(self_2550137286) {
 }
 
 function formatValue_2550137193(result_2550137195, result_2550137195_Idx, value_2550137196, specifier_2550137197) {
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 572;
     F.filename = "strformat.nim";
@@ -12760,7 +12760,7 @@ function formatValue_2550137193(result_2550137195, result_2550137195_Idx, value_
 }
 
 function formatValue_2566914748(result_2566914750, result_2566914750_Idx, value_2566914751, specifier_2566914752) {
-  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
+  var F = {procname: "formatValue.formatValue", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strformat.nim", line: 0};
   framePtr = F;
     F.line = 572;
     F.filename = "strformat.nim";
@@ -12773,7 +12773,7 @@ function formatValue_2566914748(result_2566914750, result_2566914750_Idx, value_
 function renderTag_2566914670(self_2566914671) {
   var result_2566914672 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 18;
     F.filename = "layout.nim";
@@ -12801,7 +12801,7 @@ function renderTag_2566914670(self_2566914671) {
 function style_2566914667(self_2566914668) {
   var result_2566914669 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12815,7 +12815,7 @@ function style_2566914667(self_2566914668) {
 function render_2566914938(self_2566914939) {
   var result_2566914940 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12850,7 +12850,7 @@ function render_2566914938(self_2566914939) {
 }
 
 function script_2516582817(self_2516582818) {
-  var F = {procname: "eMathjax.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12860,7 +12860,7 @@ function script_2516582817(self_2516582818) {
 function renderTag_2516582822(self_2516582823) {
   var result_2516582824 = null;
 
-  var F = {procname: "eMathjax.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12874,7 +12874,7 @@ function renderTag_2516582822(self_2516582823) {
 function style_2516582819(self_2516582820) {
   var result_2516582821 = [];
 
-  var F = {procname: "eMathjax.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12888,7 +12888,7 @@ function style_2516582819(self_2516582820) {
 function render_2516582963(self_2516582964) {
   var result_2516582965 = null;
 
-  var F = {procname: "eMathjax.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12923,7 +12923,7 @@ function render_2516582963(self_2516582964) {
 }
 
 function script_2566915615(self_2566915616) {
-  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -12933,7 +12933,7 @@ function script_2566915615(self_2566915616) {
 function renderTag_2566915620(self_2566915621) {
   var result_2566915622 = null;
 
-  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 31;
     F.filename = "layout.nim";
@@ -12961,7 +12961,7 @@ function renderTag_2566915620(self_2566915621) {
 function style_2566915617(self_2566915618) {
   var result_2566915619 = [];
 
-  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -12975,7 +12975,7 @@ function style_2566915617(self_2566915618) {
 function render_2566915714(self_2566915715) {
   var result_2566915716 = null;
 
-  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13010,7 +13010,7 @@ function render_2566915714(self_2566915715) {
 }
 
 function script_2583692363(self_2583692364) {
-  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13020,7 +13020,7 @@ function script_2583692363(self_2583692364) {
 function renderTag_2583692368(self_2583692369) {
   var result_2583692370 = null;
 
-  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 29;
     F.filename = "markup.nim";
@@ -13048,7 +13048,7 @@ function renderTag_2583692368(self_2583692369) {
 function style_2583692365(self_2583692366) {
   var result_2583692367 = [];
 
-  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13062,7 +13062,7 @@ function style_2583692365(self_2583692366) {
 function render_2583692536(self_2583692537) {
   var result_2583692538 = null;
 
-  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13097,7 +13097,7 @@ function render_2583692536(self_2583692537) {
 }
 
 function script_2583691903(self_2583691904) {
-  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13107,7 +13107,7 @@ function script_2583691903(self_2583691904) {
 function renderTag_2583691908(self_2583691909) {
   var result_2583691910 = null;
 
-  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 22;
     F.filename = "markup.nim";
@@ -13147,7 +13147,7 @@ function renderTag_2583691908(self_2583691909) {
 function style_2583691905(self_2583691906) {
   var result_2583691907 = [];
 
-  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13161,7 +13161,7 @@ function style_2583691905(self_2583691906) {
 function render_2583692160(self_2583692161) {
   var result_2583692162 = null;
 
-  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13196,7 +13196,7 @@ function render_2583692160(self_2583692161) {
 }
 
 function script_2550137974(self_2550137975) {
-  var F = {procname: "images.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13206,7 +13206,7 @@ function script_2550137974(self_2550137975) {
 function renderTag_2550137979(self_2550137980) {
   var result_2550137981 = null;
 
-  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 30;
     F.filename = "images.nim";
@@ -13234,7 +13234,7 @@ function renderTag_2550137979(self_2550137980) {
 function style_2550137976(self_2550137977) {
   var result_2550137978 = [];
 
-  var F = {procname: "images.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13248,7 +13248,7 @@ function style_2550137976(self_2550137977) {
 function render_2550138098(self_2550138099) {
   var result_2550138100 = null;
 
-  var F = {procname: "images.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13283,7 +13283,7 @@ function render_2550138098(self_2550138099) {
 }
 
 function script_2550137628(self_2550137629) {
-  var F = {procname: "images.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13293,7 +13293,7 @@ function script_2550137628(self_2550137629) {
 function renderTag_2550137633(self_2550137634) {
   var result_2550137635 = null;
 
-  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "images.nim";
@@ -13333,7 +13333,7 @@ function renderTag_2550137633(self_2550137634) {
 function style_2550137630(self_2550137631) {
   var result_2550137632 = [];
 
-  var F = {procname: "images.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13347,7 +13347,7 @@ function style_2550137630(self_2550137631) {
 function render_2550137757(self_2550137758) {
   var result_2550137759 = null;
 
-  var F = {procname: "images.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13382,7 +13382,7 @@ function render_2550137757(self_2550137758) {
 }
 
 function script_2550137067(self_2550137068) {
-  var F = {procname: "images.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13392,7 +13392,7 @@ function script_2550137067(self_2550137068) {
 function renderTag_2550137072(self_2550137073) {
   var result_2550137074 = null;
 
-  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 11;
     F.filename = "images.nim";
@@ -13432,7 +13432,7 @@ function renderTag_2550137072(self_2550137073) {
 function style_2550137069(self_2550137070) {
   var result_2550137071 = [];
 
-  var F = {procname: "images.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13446,7 +13446,7 @@ function style_2550137069(self_2550137070) {
 function render_2550137411(self_2550137412) {
   var result_2550137413 = null;
 
-  var F = {procname: "images.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13481,7 +13481,7 @@ function render_2550137411(self_2550137412) {
 }
 
 function script_2533359904(self_2533359905) {
-  var F = {procname: "fonts.script", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.script", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -13491,7 +13491,7 @@ function script_2533359904(self_2533359905) {
 function HEX5BHEX5D_2533360037(s_2533360041, x_2533360042) {
   var result_2533360043 = [];
 
-  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/indices.nim", line: 0};
+  var F = {procname: "[].[]", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/indices.nim", line: 0};
   framePtr = F;
     F.line = 139;
     F.filename = "indices.nim";
@@ -13529,14 +13529,14 @@ function HEX5BHEX5D_2533360037(s_2533360041, x_2533360042) {
 function renderTag_2533359909(self_2533359910) {
   var result_2533359911 = null;
 
-  var F = {procname: "fonts.renderTag", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.renderTag", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 52;
     F.filename = "fonts.nim";
     F.line = 736;
     F.filename = "macros.nim";
     var c0_2533359990 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2533359995 = newSeq_2533360078(0);
     Label1: {
@@ -13570,7 +13570,7 @@ function renderTag_2533359909(self_2533359910) {
             i_520096316 = addInt(i_520096316, 1);
             if (!(((colontmp__520096315).length == L_520096317))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -13579,7 +13579,7 @@ function renderTag_2533359909(self_2533359910) {
     F.line = 736;
     F.filename = "macros.nim";
     var c1_2533360143 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2533360144 = newSeq_2533360078(0);
     Label4: {
@@ -13613,7 +13613,7 @@ function renderTag_2533359909(self_2533359910) {
             i_520096321 = addInt(i_520096321, 1);
             if (!(((colontmp__520096320).length == L_520096322))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -13622,7 +13622,7 @@ function renderTag_2533359909(self_2533359910) {
     F.line = 736;
     F.filename = "macros.nim";
     var c2_2533360262 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2533360263 = newSeq_2533360078(0);
     Label7: {
@@ -13656,7 +13656,7 @@ function renderTag_2533359909(self_2533359910) {
             i_520096326 = addInt(i_520096326, 1);
             if (!(((colontmp__520096325).length == L_520096327))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -13665,7 +13665,7 @@ function renderTag_2533359909(self_2533359910) {
     F.line = 736;
     F.filename = "macros.nim";
     var c3_2533360381 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2533360382 = newSeq_2533360078(0);
     Label10: {
@@ -13699,7 +13699,7 @@ function renderTag_2533359909(self_2533359910) {
             i_520096331 = addInt(i_520096331, 1);
             if (!(((colontmp__520096330).length == L_520096332))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -13708,7 +13708,7 @@ function renderTag_2533359909(self_2533359910) {
     F.line = 736;
     F.filename = "macros.nim";
     var c4_2533360500 = 0;
-    F.line = 915;
+    F.line = 929;
     F.filename = "macro_utils.nim";
     var collectResult_2533360501 = newSeq_2533360078(0);
     Label13: {
@@ -13742,7 +13742,7 @@ function renderTag_2533359909(self_2533359910) {
             i_520096336 = addInt(i_520096336, 1);
             if (!(((colontmp__520096335).length == L_520096337))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -13758,7 +13758,7 @@ function renderTag_2533359909(self_2533359910) {
 function style_2533359906(self_2533359907) {
   var result_2533359908 = [];
 
-  var F = {procname: "fonts.style", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.style", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13772,7 +13772,7 @@ function style_2533359906(self_2533359907) {
 function render_2533360651(self_2533360652) {
   var result_2533360653 = null;
 
-  var F = {procname: "fonts.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 653;
     F.filename = "components.nim";
@@ -13809,7 +13809,7 @@ function render_2533360651(self_2533360652) {
 function render_1660950585(self_1660950586) {
   var result_1660950587 = null;
 
-  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 274;
     F.filename = "renderer.nim";
@@ -13823,7 +13823,7 @@ function render_1660950585(self_1660950586) {
 function render_1660950588(self_1660950586) {
   var result_1660950589 = null;
 
-  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.render", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 509;
@@ -14030,7 +14030,7 @@ function render_1660950588(self_1660950586) {
 }
 
 function del_2516582624(x_2516582626, x_2516582626_Idx, i_2516582627) {
-  var F = {procname: "del.del", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "del.del", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 1227;
     F.filename = "system.nim";
@@ -14048,7 +14048,7 @@ function del_2516582624(x_2516582626, x_2516582626_Idx, i_2516582627) {
 function find_2516582605(a_2516582608, item_2516582609) {
   var result_2516582610 = 0;
 
-  var F = {procname: "find.find", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "find.find", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 1665;
@@ -14081,7 +14081,7 @@ function find_2516582605(a_2516582608, item_2516582609) {
             i_520096351 = addInt(i_520096351, 1);
             if (!(((a_2516582608).length == L_520096352))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -14100,7 +14100,7 @@ function find_2516582605(a_2516582608, item_2516582609) {
 function newSeq_2516582641(len_2516582643) {
   var result_2516582644 = [];
 
-  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "newSeq.newSeq", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
     F.line = 635;
     F.filename = "system.nim";
@@ -14113,7 +14113,7 @@ function newSeq_2516582641(len_2516582643) {
 function nsuRepeatStr(s_704644202, n_704644203) {
   var result_704644204 = [];
 
-  var F = {procname: "strutils.repeat", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.repeat", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 1336;
     F.filename = "strutils.nim";
@@ -14154,7 +14154,7 @@ function nsuRepeatStr(s_704644202, n_704644203) {
 function lvl_1795162572(self_1795162573) {
   var result_1795162574 = 0;
 
-  var F = {procname: "tag.lvl", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.lvl", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
     F.line = 313;
     F.filename = "tag.nim";
@@ -14183,7 +14183,7 @@ function lvl_1795162572(self_1795162573) {
 function nsuJoinSep(a_704644651, sep_704644652) {
   var result_704644653 = [];
 
-  var F = {procname: "strutils.join", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "strutils.join", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     if ((0 < (a_704644651).length)) {
     F.line = 1845;
@@ -14266,7 +14266,7 @@ function nsuJoinSep(a_704644651, sep_704644652) {
 function join_1795162648(a_1795162650, sep_1795162651) {
   var result_1795162652 = [];
 
-  var F = {procname: "join.join", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
+  var F = {procname: "join.join", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/pure/strutils.nim", line: 0};
   framePtr = F;
     F.line = 1861;
     F.filename = "strutils.nim";
@@ -14310,7 +14310,7 @@ function join_1795162648(a_1795162650, sep_1795162651) {
 function find_939524150(a_939524153, item_939524154) {
   var result_939524155 = 0;
 
-  var F = {procname: "find.find", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "find.find", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 1665;
@@ -14355,7 +14355,7 @@ function find_939524150(a_939524153, item_939524154) {
 function contains_939524145(a_939524147, item_939524148) {
   var result_939524149 = false;
 
-  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
+  var F = {procname: "contains.contains", prev: framePtr, filename: "/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 1683;
@@ -14374,7 +14374,7 @@ function HEX24_1795162640(self_1795162641) {
 
   var result_1795162642 = [];
 
-  var F = {procname: "tag.$", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/tag.nim", line: 0};
+  var F = {procname: "tag.$", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/tag.nim", line: 0};
   framePtr = F;
   BeforeRet: {
     F.line = 364;
@@ -14542,7 +14542,7 @@ function HEX24_1795162640(self_1795162641) {
 }
 
 function reRender_2650800556(self_2650800557) {
-  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 12;
     F.filename = "base23.nim";
@@ -14587,7 +14587,7 @@ function reRender_2650800556(self_2650800557) {
             i_520096343 = addInt(i_520096343, 1);
             if (!(((compTmpData_2650800560.children).length == L_520096344))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -14655,7 +14655,7 @@ function reRender_2650800556(self_2650800557) {
 }
 
 function reRender_2634023451(self_2634023452) {
-  var F = {procname: "videos.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 11;
     F.filename = "videos.nim";
@@ -14700,7 +14700,7 @@ function reRender_2634023451(self_2634023452) {
             i_520096378 = addInt(i_520096378, 1);
             if (!(((compTmpData_2634023455.children).length == L_520096379))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -14768,7 +14768,7 @@ function reRender_2634023451(self_2634023452) {
 }
 
 function reRender_2634022989(self_2634022990) {
-  var F = {procname: "videos.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "videos.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 3;
     F.filename = "videos.nim";
@@ -14813,7 +14813,7 @@ function reRender_2634022989(self_2634022990) {
             i_520096386 = addInt(i_520096386, 1);
             if (!(((compTmpData_2634022993.children).length == L_520096387))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -14881,7 +14881,7 @@ function reRender_2634022989(self_2634022990) {
 }
 
 function reRender_2600470920(self_2600470921) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 104;
     F.filename = "numbering.nim";
@@ -14926,7 +14926,7 @@ function reRender_2600470920(self_2600470921) {
             i_520096394 = addInt(i_520096394, 1);
             if (!(((compTmpData_2600470924.children).length == L_520096395))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -14994,7 +14994,7 @@ function reRender_2600470920(self_2600470921) {
 }
 
 function reRender_2650800193(self_2650800194) {
-  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 5;
     F.filename = "base23.nim";
@@ -15039,7 +15039,7 @@ function reRender_2650800193(self_2650800194) {
             i_520096402 = addInt(i_520096402, 1);
             if (!(((compTmpData_2650800197.children).length == L_520096403))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15107,7 +15107,7 @@ function reRender_2650800193(self_2650800194) {
 }
 
 function reRender_2701131860(self_2701131861) {
-  var F = {procname: "mBlocks.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "mBlocks.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 3;
     F.filename = "mBlocks.nim";
@@ -15152,7 +15152,7 @@ function reRender_2701131860(self_2701131861) {
             i_520096410 = addInt(i_520096410, 1);
             if (!(((compTmpData_2701131864.children).length == L_520096411))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15220,7 +15220,7 @@ function reRender_2701131860(self_2701131861) {
 }
 
 function reRender_2650801181(self_2650801182) {
-  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "base23.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 19;
     F.filename = "base23.nim";
@@ -15265,7 +15265,7 @@ function reRender_2650801181(self_2650801182) {
             i_520096418 = addInt(i_520096418, 1);
             if (!(((compTmpData_2650801185.children).length == L_520096419))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15333,7 +15333,7 @@ function reRender_2650801181(self_2650801182) {
 }
 
 function reRender_2617246694(self_2617246695) {
-  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 40;
     F.filename = "paper.nim";
@@ -15378,7 +15378,7 @@ function reRender_2617246694(self_2617246695) {
             i_520096426 = addInt(i_520096426, 1);
             if (!(((compTmpData_2617246698.children).length == L_520096427))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15446,7 +15446,7 @@ function reRender_2617246694(self_2617246695) {
 }
 
 function reRender_2600470374(self_2600470375) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 93;
     F.filename = "numbering.nim";
@@ -15491,7 +15491,7 @@ function reRender_2600470374(self_2600470375) {
             i_520096434 = addInt(i_520096434, 1);
             if (!(((compTmpData_2600470378.children).length == L_520096435))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15559,7 +15559,7 @@ function reRender_2600470374(self_2600470375) {
 }
 
 function reRender_2617245849(self_2617245850) {
-  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 3;
     F.filename = "paper.nim";
@@ -15604,7 +15604,7 @@ function reRender_2617245849(self_2617245850) {
             i_520096442 = addInt(i_520096442, 1);
             if (!(((compTmpData_2617245853.children).length == L_520096443))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15672,7 +15672,7 @@ function reRender_2617245849(self_2617245850) {
 }
 
 function reRender_2600471551(self_2600471552) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 117;
     F.filename = "numbering.nim";
@@ -15717,7 +15717,7 @@ function reRender_2600471551(self_2600471552) {
             i_520096450 = addInt(i_520096450, 1);
             if (!(((compTmpData_2600471555.children).length == L_520096451))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15785,7 +15785,7 @@ function reRender_2600471551(self_2600471552) {
 }
 
 function reRender_2600468688(self_2600468689) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 57;
     F.filename = "numbering.nim";
@@ -15830,7 +15830,7 @@ function reRender_2600468688(self_2600468689) {
             i_520096458 = addInt(i_520096458, 1);
             if (!(((compTmpData_2600468692.children).length == L_520096459))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -15898,7 +15898,7 @@ function reRender_2600468688(self_2600468689) {
 }
 
 function reRender_2617246288(self_2617246289) {
-  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "paper.nim";
@@ -15943,7 +15943,7 @@ function reRender_2617246288(self_2617246289) {
             i_520096466 = addInt(i_520096466, 1);
             if (!(((compTmpData_2617246292.children).length == L_520096467))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16011,7 +16011,7 @@ function reRender_2617246288(self_2617246289) {
 }
 
 function reRender_2583692638(self_2583692639) {
-  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 32;
     F.filename = "markup.nim";
@@ -16056,7 +16056,7 @@ function reRender_2583692638(self_2583692639) {
             i_520096474 = addInt(i_520096474, 1);
             if (!(((compTmpData_2583692642.children).length == L_520096475))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16124,7 +16124,7 @@ function reRender_2583692638(self_2583692639) {
 }
 
 function reRender_2617247081(self_2617247082) {
-  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "paper.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 57;
     F.filename = "paper.nim";
@@ -16169,7 +16169,7 @@ function reRender_2617247081(self_2617247082) {
             i_520096482 = addInt(i_520096482, 1);
             if (!(((compTmpData_2617247085.children).length == L_520096483))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16237,7 +16237,7 @@ function reRender_2617247081(self_2617247082) {
 }
 
 function reRender_2566914125(self_2566914126) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 3;
     F.filename = "layout.nim";
@@ -16282,7 +16282,7 @@ function reRender_2566914125(self_2566914126) {
             i_520096490 = addInt(i_520096490, 1);
             if (!(((compTmpData_2566914129.children).length == L_520096491))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16350,7 +16350,7 @@ function reRender_2566914125(self_2566914126) {
 }
 
 function reRender_2583693361(self_2583693362) {
-  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 49;
     F.filename = "markup.nim";
@@ -16395,7 +16395,7 @@ function reRender_2583693361(self_2583693362) {
             i_520096498 = addInt(i_520096498, 1);
             if (!(((compTmpData_2583693365.children).length == L_520096499))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16463,7 +16463,7 @@ function reRender_2583693361(self_2583693362) {
 }
 
 function reRender_2600469499(self_2600469500) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 74;
     F.filename = "numbering.nim";
@@ -16508,7 +16508,7 @@ function reRender_2600469499(self_2600469500) {
             i_520096506 = addInt(i_520096506, 1);
             if (!(((compTmpData_2600469503.children).length == L_520096507))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16576,7 +16576,7 @@ function reRender_2600469499(self_2600469500) {
 }
 
 function reRender_2600469087(self_2600469088) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 66;
     F.filename = "numbering.nim";
@@ -16621,7 +16621,7 @@ function reRender_2600469087(self_2600469088) {
             i_520096514 = addInt(i_520096514, 1);
             if (!(((compTmpData_2600469091.children).length == L_520096515))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16689,7 +16689,7 @@ function reRender_2600469087(self_2600469088) {
 }
 
 function reRender_2583691350(self_2583691351) {
-  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 5;
     F.filename = "markup.nim";
@@ -16734,7 +16734,7 @@ function reRender_2583691350(self_2583691351) {
             i_520096522 = addInt(i_520096522, 1);
             if (!(((compTmpData_2583691354.children).length == L_520096523))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16802,7 +16802,7 @@ function reRender_2583691350(self_2583691351) {
 }
 
 function reRender_2600469828(self_2600469829) {
-  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "numbering.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 82;
     F.filename = "numbering.nim";
@@ -16847,7 +16847,7 @@ function reRender_2600469828(self_2600469829) {
             i_520096530 = addInt(i_520096530, 1);
             if (!(((compTmpData_2600469832.children).length == L_520096531))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -16915,7 +16915,7 @@ function reRender_2600469828(self_2600469829) {
 }
 
 function reRender_2566915037(self_2566915038) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 21;
     F.filename = "layout.nim";
@@ -16960,7 +16960,7 @@ function reRender_2566915037(self_2566915038) {
             i_520096538 = addInt(i_520096538, 1);
             if (!(((compTmpData_2566915041.children).length == L_520096539))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17028,7 +17028,7 @@ function reRender_2566915037(self_2566915038) {
 }
 
 function reRender_2566914550(self_2566914551) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 11;
     F.filename = "layout.nim";
@@ -17073,7 +17073,7 @@ function reRender_2566914550(self_2566914551) {
             i_520096546 = addInt(i_520096546, 1);
             if (!(((compTmpData_2566914554.children).length == L_520096547))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17141,7 +17141,7 @@ function reRender_2566914550(self_2566914551) {
 }
 
 function reRender_2516582600(self_2516582601) {
-  var F = {procname: "eMathjax.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "eMathjax.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 5;
     F.filename = "eMathjax.nim";
@@ -17186,7 +17186,7 @@ function reRender_2516582600(self_2516582601) {
             i_520096554 = addInt(i_520096554, 1);
             if (!(((compTmpData_2516582604.children).length == L_520096555))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17254,7 +17254,7 @@ function reRender_2516582600(self_2516582601) {
 }
 
 function reRender_2566915500(self_2566915501) {
-  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "layout.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 27;
     F.filename = "layout.nim";
@@ -17299,7 +17299,7 @@ function reRender_2566915500(self_2566915501) {
             i_520096562 = addInt(i_520096562, 1);
             if (!(((compTmpData_2566915504.children).length == L_520096563))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17367,7 +17367,7 @@ function reRender_2566915500(self_2566915501) {
 }
 
 function reRender_2583692248(self_2583692249) {
-  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 24;
     F.filename = "markup.nim";
@@ -17412,7 +17412,7 @@ function reRender_2583692248(self_2583692249) {
             i_520096570 = addInt(i_520096570, 1);
             if (!(((compTmpData_2583692252.children).length == L_520096571))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17480,7 +17480,7 @@ function reRender_2583692248(self_2583692249) {
 }
 
 function reRender_2583691788(self_2583691789) {
-  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "markup.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 14;
     F.filename = "markup.nim";
@@ -17525,7 +17525,7 @@ function reRender_2583691788(self_2583691789) {
             i_520096578 = addInt(i_520096578, 1);
             if (!(((compTmpData_2583691792.children).length == L_520096579))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17593,7 +17593,7 @@ function reRender_2583691788(self_2583691789) {
 }
 
 function reRender_2550137859(self_2550137860) {
-  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 23;
     F.filename = "images.nim";
@@ -17638,7 +17638,7 @@ function reRender_2550137859(self_2550137860) {
             i_520096586 = addInt(i_520096586, 1);
             if (!(((compTmpData_2550137863.children).length == L_520096587))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17706,7 +17706,7 @@ function reRender_2550137859(self_2550137860) {
 }
 
 function reRender_2550137513(self_2550137514) {
-  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 13;
     F.filename = "images.nim";
@@ -17751,7 +17751,7 @@ function reRender_2550137513(self_2550137514) {
             i_520096594 = addInt(i_520096594, 1);
             if (!(((compTmpData_2550137517.children).length == L_520096595))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17819,7 +17819,7 @@ function reRender_2550137513(self_2550137514) {
 }
 
 function reRender_2550136952(self_2550136953) {
-  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "images.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 3;
     F.filename = "images.nim";
@@ -17864,7 +17864,7 @@ function reRender_2550136952(self_2550136953) {
             i_520096602 = addInt(i_520096602, 1);
             if (!(((compTmpData_2550136956.children).length == L_520096603))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -17932,7 +17932,7 @@ function reRender_2550136952(self_2550136953) {
 }
 
 function reRender_2533359789(self_2533359790) {
-  var F = {procname: "fonts.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/components.nim", line: 0};
+  var F = {procname: "fonts.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/components.nim", line: 0};
   framePtr = F;
     F.line = 35;
     F.filename = "fonts.nim";
@@ -17977,7 +17977,7 @@ function reRender_2533359789(self_2533359790) {
             i_520096610 = addInt(i_520096610, 1);
             if (!(((compTmpData_2533359793.children).length == L_520096611))) {
             F.line = 246;
-            failedAssertImpl_268435541(makeNimstrLit("/home/taq/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
+            failedAssertImpl_268435541(makeNimstrLit("/home/taquimby/.choosenim/toolchains/nim-2.0.0/lib/system/iterators.nim(246, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
@@ -18045,7 +18045,7 @@ function reRender_2533359789(self_2533359790) {
 }
 
 function reRender_1660950590(self_1660950591) {
-  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
   framePtr = F.prev;
 
@@ -18053,7 +18053,7 @@ function reRender_1660950590(self_1660950591) {
 }
 
 function reRender_1660950592(self_1660950591) {
-  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taq/.nimble/pkgs2/happyx-2.11.6-6a7a1b6045c63d9721e7f1d7c2cb391393bae99c/happyx/spa/renderer.nim", line: 0};
+  var F = {procname: "renderer.reRender", prev: framePtr, filename: "/home/taquimby/.nimble/pkgs2/happyx-2.11.6-d70174ade006a7f76b1f39df79feb744367b1492/happyx/spa/renderer.nim", line: 0};
   framePtr = F;
     F.line = 509;
     F.filename = "jssys.nim";
