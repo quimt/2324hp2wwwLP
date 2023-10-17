@@ -29,3 +29,7 @@
         data-typesttings: "sans-serif";
     }
 }
+
+* {
+    --paper-color: color-mix(in srgb, var(--ts-color-background) 20%, white)
+}
