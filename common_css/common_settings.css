@@ -3,6 +3,9 @@
     --ts-font-family-sans: "Noto Sans", sans-serif;
     --ts-font-family-sans-alt: "Tahoma", "Verdana", "Arial", sans-serif;
     --ts-font-family-monospace: "Noto Sans Mono", "Courier New", mono;
+    --shaded-paper-color: color-mix(in srgb, var(--ts-color-background) 20%, var(--ts-color-border));
+    --paper-color: color-mix(in srgb, var(--ts-color-background) 20%, white);
+
 }
 
 .pbr {
@@ -48,7 +51,7 @@
 }
 
 :root {
-    --screen-page-height: 100em;
+    --screen-page-height: em;
     --color-graphite: #6b6b6b;
 }
 
@@ -67,6 +70,9 @@
     }
     .no-screen {
         display: none;
+    }
+    .no-screen-render {
+        visibility: hidden;
     }
 }
 

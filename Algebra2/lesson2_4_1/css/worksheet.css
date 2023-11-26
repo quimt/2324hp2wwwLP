@@ -1,0 +1,12 @@
+@page{
+    margin: 0.0in;
+     }
+
+@media print {
+    header h1 {
+        padding-top: -2rem
+    }
+    h1 {
+        padding-bottom: -2rem
+    }
+}
